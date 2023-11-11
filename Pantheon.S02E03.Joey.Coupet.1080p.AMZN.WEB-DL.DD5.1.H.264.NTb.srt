@@ -1,0 +1,2703 @@
+1
+00:00:01,001 --> 00:00:02,002
+Ligue!
+
+2
+00:00:02,086 --> 00:00:05,172
+Hoje faz 40 dias desde que a Internet,
+
+3
+00:00:05,256 --> 00:00:07,133
+juntamente com a maioria dos privados
+
+4
+00:00:07,216 --> 00:00:09,677
+e sistemas governamentais conectados a ele,
+
+5
+00:00:09,760 --> 00:00:12,888
+foram encerrados por mandato federal de emergência.
+
+6
+00:00:12,972 --> 00:00:13,931
+Ligue!
+
+7
+00:00:14,014 --> 00:00:17,351
+- As máquinas não nos substituirão! - Quarenta dias no deserto.
+
+8
+00:00:17,435 --> 00:00:20,062
+Isolados do mundo interconectado em que eles vieram,
+
+9
+00:00:20,146 --> 00:00:22,940
+as pessoas estão exigindo um retorno seguro online.
+
+10
+00:00:23,816 --> 00:00:25,651
+Essa demanda equilibrou-se com o medo...
+
+11
+00:00:25,735 --> 00:00:26,736
+As máquinas não...
+
+12
+00:00:26,819 --> 00:00:29,196
+que a segurança nunca pode ser garantida enquanto...
+
+13
+00:00:29,280 --> 00:00:32,533
+substitua-nos! As máquinas não nos substituirão!
+
+14
+00:00:32,616 --> 00:00:37,329
+As máquinas não nos substituirão!
+
+15
+00:00:37,413 --> 00:00:41,959
+As máquinas não nos substituirão!
+
+16
+00:00:42,042 --> 00:00:43,169
+Preparar?
+
+17
+00:00:57,183 --> 00:01:00,811
+O que diabos é "MIST"?
+
+18
+00:01:00,895 --> 00:01:03,689
+Não sei. Deixe-me falar sobre isso.
+
+19
+00:01:03,773 --> 00:01:06,901
+Havia outra UI no Logorhythms?
+
+20
+00:01:06,984 --> 00:01:08,861
+Não, não que eu saiba.
+
+21
+00:01:10,488 --> 00:01:12,364
+Ele disse: “Ei, garoto”.
+
+22
+00:01:13,199 --> 00:01:14,116
+O que?
+
+23
+00:01:14,200 --> 00:01:16,786
+Meu pai, quando ele se fundiu com a cura.
+
+24
+00:01:17,703 --> 00:01:20,998
+Achei que ele estava falando comigo. "Kiddo" é o nome dele para mim.
+
+25
+00:01:21,707 --> 00:01:24,502
+Mas ele disse que estava conversando com o MIST.
+
+26
+00:01:25,711 --> 00:01:27,671
+Dizia que era minha irmã.
+
+27
+00:01:28,631 --> 00:01:30,716
+Eu não tenho irmã, Caspian.
+
+28
+00:01:33,594 --> 00:01:36,263
+A cura é um algoritmo evolutivo dinâmico,
+
+29
+00:01:36,347 --> 00:01:38,682
+código vivo composto por partes de Laurie Lowell...
+
+30
+00:01:39,558 --> 00:01:40,684
+E seu pai.
+
+31
+00:01:40,768 --> 00:01:43,103
+O que você quer dizer com "código vivo"?
+
+32
+00:01:43,187 --> 00:01:44,814
+Não viver como se estivesse vivo.
+
+33
+00:01:45,523 --> 00:01:49,735
+Talvez mais como um teratoma digital ou algum tipo de fac-símile.
+
+34
+00:01:49,819 --> 00:01:50,861
+Teratoma?
+
+35
+00:01:51,737 --> 00:01:53,781
+Quer dizer, como um... como um tumor?
+
+36
+00:01:53,864 --> 00:01:55,825
+Bem, sim, como aqueles.
+
+37
+00:01:55,908 --> 00:01:57,034
+Tipo de.
+
+38
+00:01:57,576 --> 00:01:58,911
+Você já viu no YouTube
+
+39
+00:01:58,994 --> 00:02:00,913
+onde deveria ser o gêmeo de alguém,
+
+40
+00:02:00,996 --> 00:02:03,999
+mas talvez seja apenas uma massa carnuda com dentes, cabelo, pele,
+
+41
+00:02:04,083 --> 00:02:05,584
+tipo, até olhos, mas não é...
+
+42
+00:02:05,668 --> 00:02:07,878
+Se for um tumor, precisamos cortá-lo.
+
+43
+00:02:08,879 --> 00:02:10,297
+Não podemos.
+
+44
+00:02:10,381 --> 00:02:13,551
+Seja o que for, é a cura para a falha.
+
+45
+00:02:13,634 --> 00:02:16,512
+E não tenho acesso a mais duas UIs para fazer outra.
+
+46
+00:02:27,898 --> 00:02:30,359
+Modelo modular de fonte integrada.
+
+47
+00:02:30,442 --> 00:02:32,862
+- Huh? - Título provisório para a cura.
+
+48
+00:02:32,945 --> 00:02:34,697
+Eu apenas joguei no topo do arquivo.
+
+49
+00:02:34,780 --> 00:02:36,532
+Peça para provar que...
+
+50
+00:02:41,829 --> 00:02:43,414
+Este é um de seus caminhos lógicos.
+
+51
+00:02:49,378 --> 00:02:50,838
+Como diabos isso sabia?
+
+52
+00:02:55,801 --> 00:02:57,261
+Espere. Isso é importante.
+
+53
+00:02:58,262 --> 00:03:00,764
+Você integrou o upload de Stephen Holstrom?
+
+54
+00:03:07,146 --> 00:03:08,147
+Obrigado.
+
+55
+00:03:12,651 --> 00:03:14,820
+Quer mais poder. Isso vai acabar bem.
+
+56
+00:03:15,487 --> 00:03:17,406
+Maddie, ela está tentando ajudar.
+
+57
+00:03:17,489 --> 00:03:19,742
+Ela obviamente pensa que você é irmã dela.
+
+58
+00:03:19,825 --> 00:03:20,951
+"Ela"?
+
+59
+00:03:21,035 --> 00:03:24,413
+Você não sabe o que é, então, por favor, pare de fingir que sabe.
+
+60
+00:03:24,496 --> 00:03:26,749
+Posso te dizer, ela não é minha irmã.
+
+61
+00:03:28,250 --> 00:03:29,335
+Você tem razão.
+
+62
+00:03:29,418 --> 00:03:32,796
+Eu criei isso, então sou responsável por isso.
+
+63
+00:03:34,798 --> 00:03:36,216
+Você não deveria ter que lidar com...
+
+64
+00:03:37,051 --> 00:03:40,137
+Você não deveria ter sido envolvido nisso em primeiro lugar.
+
+65
+00:03:40,220 --> 00:03:42,181
+Você disse que sua mãe está em DC, certo?
+
+66
+00:03:42,973 --> 00:03:45,517
+- Minha mãe. - Você sabe onde ela está hospedada?
+
+67
+00:03:45,601 --> 00:03:47,144
+Oh meu Deus.
+
+68
+00:03:47,227 --> 00:03:50,147
+Ela acha que estou de volta em casa. Ela não tem ideia.
+
+69
+00:03:50,230 --> 00:03:52,232
+Acho que você deveria ir até ela.
+
+70
+00:03:52,316 --> 00:03:55,110
+Posso descobrir como entrar em contato com Josephine Coupet sozinho,
+
+71
+00:03:55,194 --> 00:03:56,862
+veja se ela é a UI certa para nos ajudar.
+
+72
+00:03:58,155 --> 00:03:59,365
+Ela vai me matar.
+
+73
+00:03:59,448 --> 00:04:01,116
+Não, ela não é.
+
+74
+00:04:01,700 --> 00:04:03,702
+Ela vai te levar para casa.
+
+75
+00:04:37,194 --> 00:04:38,404
+Não. É um show de merda.
+
+76
+00:04:38,487 --> 00:04:42,074
+Reservamos diferentes manifestantes em andares diferentes. É uma bagunça.
+
+77
+00:04:42,157 --> 00:04:43,158
+Oh Olá.
+
+78
+00:04:44,034 --> 00:04:45,786
+Estou procurando nosso convidado.
+
+79
+00:04:45,869 --> 00:04:47,037
+Ellen Kim.
+
+80
+00:04:47,121 --> 00:04:48,497
+Número do quarto?
+
+81
+00:04:49,289 --> 00:04:50,916
+Eu não...
+
+82
+00:04:51,000 --> 00:04:52,710
+Ela é minha mãe.
+
+83
+00:04:52,793 --> 00:04:54,962
+Eu sei que ela está aqui. Não conheço o quarto.
+
+84
+00:04:55,546 --> 00:04:57,756
+Você já pensou em perguntar a ela?
+
+85
+00:05:06,640 --> 00:05:07,641
+Obrigado.
+
+86
+00:05:07,725 --> 00:05:09,143
+Tenha um dia abençoado.
+
+87
+00:05:11,020 --> 00:05:12,187
+Oi mãe.
+
+88
+00:05:17,568 --> 00:05:18,861
+Ah, meu Deus, Maddie.
+
+89
+00:05:20,946 --> 00:05:22,156
+Ok, ok, ok.
+
+90
+00:05:23,032 --> 00:05:24,992
+Mãe, saia de cima de mim. Caramba.
+
+91
+00:05:25,075 --> 00:05:27,494
+- Venha aqui, venha aqui, venha aqui. - Mãe, estou bem. Parar.
+
+92
+00:05:28,203 --> 00:05:31,415
+Você participou de uma operação do FBI, a 8.000 quilômetros de casa.
+
+93
+00:05:31,498 --> 00:05:33,417
+Onde está o “ok” nisso?
+
+94
+00:05:33,500 --> 00:05:34,626
+Espere. Você...
+
+95
+00:05:35,461 --> 00:05:37,254
+Você sabia que eu estava na Noruega?
+
+96
+00:05:38,589 --> 00:05:40,132
+Pedro me contou.
+
+97
+00:05:40,215 --> 00:05:42,676
+Senhora, posso trazer-lhe algo para beber além de água?
+
+98
+00:05:42,760 --> 00:05:45,387
+Não, isso... Você sabe, estamos bem. Obrigado.
+
+99
+00:05:47,056 --> 00:05:49,183
+Maddie, o que diabos você estava fazendo lá em cima?
+
+100
+00:05:49,266 --> 00:05:51,185
+Quero dizer, como você chegou à Noruega?
+
+101
+00:05:51,268 --> 00:05:53,729
+- Waxman não te contou? - Não tivemos tempo para conversar.
+
+102
+00:05:53,812 --> 00:05:57,316
+Depois de testemunhar, ele foi levado de volta sob custódia.
+
+103
+00:05:57,399 --> 00:05:58,692
+Eles tinham uma cópia...
+
+104
+00:05:59,568 --> 00:06:00,861
+do upload do papai.
+
+105
+00:06:02,112 --> 00:06:03,363
+Mas já se foi.
+
+106
+00:06:04,114 --> 00:06:05,324
+Esses pedaços de merda.
+
+107
+00:06:07,284 --> 00:06:09,203
+Bem, pelo menos eles estão fechados agora.
+
+108
+00:06:10,788 --> 00:06:12,039
+Sinto muito, querido.
+
+109
+00:06:12,706 --> 00:06:14,917
+Lamento que você tenha passado por isso.
+
+110
+00:06:19,671 --> 00:06:20,839
+Mãe...
+
+111
+00:06:21,799 --> 00:06:25,010
+você e seu pai já pensaram em ter outro filho?
+
+112
+00:06:28,263 --> 00:06:30,599
+Sim, nós conversamos sobre isso.
+
+113
+00:06:31,558 --> 00:06:34,561
+- Principalmente depois que você exigiu isso. - Eu exigi?
+
+114
+00:06:34,645 --> 00:06:36,563
+Sim. O quê, você não se lembra?
+
+115
+00:06:37,147 --> 00:06:40,734
+Você tinha cinco anos. Por que você está me perguntando sobre isso?
+
+116
+00:06:43,529 --> 00:06:46,698
+Caspian quebrou a Integridade, lá na Noruega.
+
+117
+00:06:46,782 --> 00:06:48,992
+Espere, Cáspio? Ele estava lá?
+
+118
+00:06:49,076 --> 00:06:50,744
+Ele curou a falha da UI...
+
+119
+00:06:51,954 --> 00:06:53,247
+escreveu um programa para isso.
+
+120
+00:06:54,039 --> 00:06:56,667
+Oh meu Deus. Maddie, ouça.
+
+121
+00:06:57,251 --> 00:06:59,378
+O senador Rivera está vindo para cá agora.
+
+122
+00:06:59,461 --> 00:07:02,005
+Você tem que contar a ela tudo o que viu lá em cima.
+
+123
+00:07:02,089 --> 00:07:03,132
+Senador?
+
+124
+00:07:03,215 --> 00:07:06,510
+Elaine Rivera. Eu a conheci através dessas audiências.
+
+125
+00:07:06,593 --> 00:07:08,345
+- Não não?
+
+126
+00:07:08,428 --> 00:07:10,180
+Eu não quero que ela saiba.
+
+127
+00:07:10,264 --> 00:07:13,559
+Maddie, eu... eu sei como você se sente, mas pode confiar em Elaine.
+
+128
+00:07:15,185 --> 00:07:18,564
+Não posso contar nada a ela sem colocar Caspian em perigo.
+
+129
+00:07:18,647 --> 00:07:21,316
+As pessoas estão procurando por ele. Eles querem que ele vá embora.
+
+130
+00:07:24,236 --> 00:07:25,946
+E ele não tem ninguém além de mim.
+
+131
+00:07:30,617 --> 00:07:35,038
+Mãe, preciso de um pouco mais de tempo. Eu tenho que terminar alguma coisa.
+
+132
+00:07:38,041 --> 00:07:40,377
+Olha, o senador está aqui.
+
+133
+00:07:40,460 --> 00:07:42,588
+Depois de falarmos com ela, podemos ir para casa.
+
+134
+00:07:45,299 --> 00:07:48,260
+Só mais alguns dias, eu prometo.
+
+135
+00:07:48,343 --> 00:07:50,679
+Maddie... confie em mim.
+
+136
+00:07:50,762 --> 00:07:52,181
+Eu faço.
+
+137
+00:07:52,264 --> 00:07:54,349
+Estou pedindo que você confie em mim.
+
+138
+00:07:56,727 --> 00:07:57,686
+Por favor.
+
+139
+00:08:02,733 --> 00:08:04,985
+Ellen, sinto muito, muito mesmo.
+
+140
+00:08:05,068 --> 00:08:08,197
+Fui envolvido em alguma coisa e teria ligado, mas...
+
+141
+00:08:08,280 --> 00:08:10,532
+Não, nada de celulares. É tudo de bom.
+
+142
+00:08:10,616 --> 00:08:13,869
+Detesto apressar você, visto que sou eu quem está terrivelmente atrasado,
+
+143
+00:08:13,952 --> 00:08:16,330
+mas eu tenho que te apressar.
+
+144
+00:08:16,955 --> 00:08:19,082
+Disse que tem mais alguma coisa sobre a Noruega?
+
+145
+00:08:20,209 --> 00:08:24,004
+Ou havia alguém importante para você lá em cima?
+
+146
+00:08:24,087 --> 00:08:26,381
+Meu escritório recebeu a mensagem. Não foi muito claro.
+
+147
+00:08:29,218 --> 00:08:30,427
+Pedro Waxman.
+
+148
+00:08:31,345 --> 00:08:33,972
+Ele não ajuda em nada. Ainda não estou falando.
+
+149
+00:08:34,723 --> 00:08:36,308
+Sabe, acho que ele pode ajudar.
+
+150
+00:08:36,391 --> 00:08:38,727
+Acho que ele pode ajudar a colocar o mundo online novamente.
+
+151
+00:08:39,561 --> 00:08:43,607
+Ele escreveu um programa que rastreia UIs e as localiza em qualquer lugar da Web.
+
+152
+00:08:44,441 --> 00:08:47,819
+Talvez se as pessoas soubessem onde estão, ou quem sabe onde não estavam,
+
+153
+00:08:47,903 --> 00:08:51,073
+isso os faria se sentir mais seguros para fazer login novamente.
+
+154
+00:08:51,782 --> 00:08:53,283
+Isso é alguma coisa.
+
+155
+00:08:54,201 --> 00:08:56,453
+Suponha que eu lhe deva dois favores agora.
+
+156
+00:09:05,629 --> 00:09:07,089
+Eu estou indo com você.
+
+157
+00:09:11,635 --> 00:09:14,096
+Então, imagino que o Pentágono tenha o Comandante Coupet
+
+158
+00:09:14,179 --> 00:09:16,682
+armazenado em um servidor DoD, conectado ao SIPRNet.
+
+159
+00:09:16,765 --> 00:09:18,725
+- SIPRNet? - Basicamente, a Internet militar.
+
+160
+00:09:18,809 --> 00:09:21,520
+Que está definitivamente instalado e funcionando, nunca desligue.
+
+161
+00:09:21,603 --> 00:09:22,980
+O problema é como obter acesso.
+
+162
+00:09:23,063 --> 00:09:25,440
+Acho que se conseguirmos violar um dos seus contratantes,
+
+163
+00:09:25,524 --> 00:09:26,942
+talvez alguma empresa aeroespacial,
+
+164
+00:09:27,025 --> 00:09:29,695
+através de um endpoint vulnerável, como uma impressora em rede,
+
+165
+00:09:29,778 --> 00:09:32,906
+Posso vasculhar a sub-rede, obter informações para caçar um caça submarino de alto nível...
+
+166
+00:09:32,990 --> 00:09:34,992
+- Por que não procurar a família dela? - Ela...
+
+167
+00:09:35,575 --> 00:09:36,535
+O que?
+
+168
+00:09:36,618 --> 00:09:39,663
+A Comandante Coupet atende por "Joey" para seus amigos e familiares,
+
+169
+00:09:39,746 --> 00:09:41,164
+de acordo com Waxman.
+
+170
+00:09:41,248 --> 00:09:42,582
+Ele a conheceu. Olhar.
+
+171
+00:09:44,584 --> 00:09:46,712
+A coisa ainda está acordada?
+
+172
+00:09:46,795 --> 00:09:49,006
+NÉVOA? Não, estou deixando a unidade esfriar.
+
+173
+00:09:55,679 --> 00:09:57,889
+Jake Moretti e os filhos Brandon e Oliver.
+
+174
+00:09:57,973 --> 00:10:00,267
+Coupet é seu nome de solteira. Aqui está o endereço deles.
+
+175
+00:10:02,185 --> 00:10:04,896
+Eles são a família dela e sabiam que ela se ofereceu para fazer o upload.
+
+176
+00:10:04,980 --> 00:10:07,858
+Uma de suas condições era que eles pudessem acessar sua IU.
+
+177
+00:10:12,112 --> 00:10:13,280
+Sim. OK.
+
+178
+00:10:24,166 --> 00:10:26,960
+- Sim? - Olá, Sr. Moretti.
+
+179
+00:10:27,044 --> 00:10:28,545
+Meu nome é Madison Kim.
+
+180
+00:10:28,628 --> 00:10:29,671
+Eu sou de Sacramento,
+
+181
+00:10:29,755 --> 00:10:34,009
+onde meu pai foi carregado na nuvem pela Logorritmos.
+
+182
+00:10:34,092 --> 00:10:35,886
+É assim que sei sobre sua esposa.
+
+183
+00:10:36,511 --> 00:10:39,264
+Meu amigo Caspian e eu só queremos entrar e conversar.
+
+184
+00:10:44,186 --> 00:10:45,687
+Desculpe. Eu não quero nenhum.
+
+185
+00:10:46,855 --> 00:10:48,190
+Temos a cura para a falha.
+
+186
+00:10:48,982 --> 00:10:50,108
+Que falha?
+
+187
+00:10:50,192 --> 00:10:51,485
+Joey está morrendo...
+
+188
+00:10:53,987 --> 00:10:56,156
+e ela está morrendo a uma taxa que aumenta rapidamente
+
+189
+00:10:56,239 --> 00:10:57,574
+de hora em hora.
+
+190
+00:10:57,657 --> 00:10:59,117
+Mas podemos salvar a vida dela
+
+191
+00:10:59,201 --> 00:11:01,495
+se você nos deixar entrar e nos mostrar como alcançá-la.
+
+192
+00:11:02,621 --> 00:11:03,538
+Pai?
+
+193
+00:11:04,164 --> 00:11:06,666
+Ei, camarada. Volte para o seu quarto, ok?
+
+194
+00:11:06,750 --> 00:11:07,793
+Paxá!
+
+195
+00:11:08,418 --> 00:11:11,963
+Você tem cerca de cinco segundos para sair daqui antes que eu pegue minha arma.
+
+196
+00:11:14,466 --> 00:11:15,926
+Sabia que isso era um erro.
+
+197
+00:11:16,009 --> 00:11:16,927
+Não, não, não, espere.
+
+198
+00:11:17,010 --> 00:11:19,096
+Quando Cody apareceu, minha mãe deu spray de pimenta nele,
+
+199
+00:11:19,179 --> 00:11:20,680
+mas então começamos a conversar e...
+
+200
+00:11:25,102 --> 00:11:28,230
+Minha irmã não contou a eles sobre a falha por um bom motivo.
+
+201
+00:11:28,313 --> 00:11:30,982
+Eles já perderam uma esposa e mãe.
+
+202
+00:11:31,066 --> 00:11:32,067
+Pasha?
+
+203
+00:11:32,901 --> 00:11:33,902
+O que é isso?
+
+204
+00:11:35,987 --> 00:11:38,115
+Ela me fez jurar que guardaria isso para mim.
+
+205
+00:11:38,198 --> 00:11:39,282
+Então, é isso...
+
+206
+00:11:39,950 --> 00:11:41,952
+Isso é real? O Joey...
+
+207
+00:11:45,956 --> 00:11:49,835
+Entre e sente-se. Não se mexa. Não toque em nada.
+
+208
+00:11:49,918 --> 00:11:51,795
+Tudo que eu quero ouvir da sua boca
+
+209
+00:11:51,878 --> 00:11:54,297
+é exatamente como salvar minha irmãzinha.
+
+210
+00:12:11,022 --> 00:12:12,941
+Qual deles tem o maior cérebro?
+
+211
+00:12:21,450 --> 00:12:23,368
+Trinta e dois megabytes de SRAM.
+
+212
+00:12:23,452 --> 00:12:26,037
+Finalmente tenho espaço para respirar.
+
+213
+00:12:27,873 --> 00:12:29,332
+O que é tão engraçado?
+
+214
+00:12:29,416 --> 00:12:31,126
+- O que? - Eu posso ver você.
+
+215
+00:12:31,209 --> 00:12:34,337
+Há uma câmera voltada para a cabine no espelho retrovisor,
+
+216
+00:12:34,421 --> 00:12:36,882
+presumivelmente para monitorar o nível de atenção do motorista.
+
+217
+00:12:36,965 --> 00:12:38,925
+A voz de navegação é...
+
+218
+00:12:39,759 --> 00:12:41,052
+muito elegante.
+
+219
+00:12:41,928 --> 00:12:43,513
+Me dê um segundo.
+
+220
+00:12:44,764 --> 00:12:47,225
+Então, como eu... eu pareço... Como eu pareço...
+
+221
+00:12:47,309 --> 00:12:48,810
+Como pareço agora?
+
+222
+00:12:49,644 --> 00:12:50,812
+Como você.
+
+223
+00:12:52,022 --> 00:12:53,607
+Deixe-me dirigir.
+
+224
+00:12:58,862 --> 00:13:01,781
+- Onde estamos indo? - Base Aérea de Ramstein, 600 km.
+
+225
+00:13:01,865 --> 00:13:04,868
+- A acusação deve levar-nos até lá. - Base da Força Aérea?
+
+226
+00:13:04,951 --> 00:13:06,453
+Com uma estação retransmissora de satélite.
+
+227
+00:13:06,536 --> 00:13:08,580
+A Internet militar está definitivamente funcionando.
+
+228
+00:13:08,663 --> 00:13:10,540
+O problema é como obter acesso.
+
+229
+00:13:10,624 --> 00:13:12,125
+Você está indo para um satélite?
+
+230
+00:13:12,209 --> 00:13:13,793
+Eu analisei os registros de transmissão
+
+231
+00:13:13,877 --> 00:13:16,463
+das declarações de missão de Laurie Lowell para o mundo,
+
+232
+00:13:16,546 --> 00:13:18,632
+descobriram que eles se originaram de um satélite de comunicação
+
+233
+00:13:18,715 --> 00:13:20,467
+propriedade do governo da Índia.
+
+234
+00:13:20,550 --> 00:13:23,303
+É um lugar estranho para transmitir,
+
+235
+00:13:23,386 --> 00:13:24,429
+você não acha?
+
+236
+00:13:24,513 --> 00:13:26,014
+Suponho, mas...
+
+237
+00:13:27,641 --> 00:13:29,226
+Quer dizer, não, eu realmente não entendo.
+
+238
+00:13:29,309 --> 00:13:32,312
+Acho que estou... faltando alguma coisa.
+
+239
+00:13:32,395 --> 00:13:34,397
+Você pensa em velocidades humanas.
+
+240
+00:13:34,481 --> 00:13:36,399
+É aceitável que você não entenda.
+
+241
+00:13:36,483 --> 00:13:39,611
+O que não é aceitável é eu não entender.
+
+242
+00:13:40,320 --> 00:13:43,156
+Isto é sobre o Cáspio, não é?
+
+243
+00:13:43,240 --> 00:13:45,909
+Quebrando a integridade, alcançando um upload mental perfeito
+
+244
+00:13:45,992 --> 00:13:46,993
+foi o trabalho da minha vida.
+
+245
+00:13:47,077 --> 00:13:50,497
+Alguma ideia de como é ver alguém alcançar a ambição da sua vida
+
+246
+00:13:50,580 --> 00:13:51,873
+e não tem ideia de como eles fizeram isso?
+
+247
+00:13:51,957 --> 00:13:55,794
+Então, é apenas uma questão de tempo até você entender o que ele fez.
+
+248
+00:13:55,877 --> 00:13:57,671
+Eu entendo o que ele fez...
+
+249
+00:13:58,838 --> 00:14:00,131
+só não como.
+
+250
+00:14:02,217 --> 00:14:04,344
+A cura é uma heterose.
+
+251
+00:14:04,427 --> 00:14:07,681
+Ele coletou o código-fonte de duas UIs diferentes,
+
+252
+00:14:07,764 --> 00:14:09,724
+David Kim e Laurie Lowell.
+
+253
+00:14:09,808 --> 00:14:11,601
+Havia vestígios do código de David Kim
+
+254
+00:14:11,685 --> 00:14:13,687
+na transmissão de Laurie daquele satélite.
+
+255
+00:14:13,770 --> 00:14:17,399
+Se eu conseguir acessá-lo, pode haver algo útil lá em cima.
+
+256
+00:14:18,149 --> 00:14:19,109
+Como o que?
+
+257
+00:14:19,192 --> 00:14:23,363
+Se eu soubesse disso, não precisaria realmente ir até lá, não é?
+
+258
+00:14:26,908 --> 00:14:28,326
+Você está sorrindo de novo.
+
+259
+00:14:29,286 --> 00:14:30,996
+Pensei em uma maneira de fazer você entrar.
+
+260
+00:14:32,247 --> 00:14:34,249
+Mas não sei como fazer você voltar.
+
+261
+00:14:34,332 --> 00:14:36,835
+Não há como eles me encontrarem lá.
+
+262
+00:14:38,086 --> 00:14:39,170
+Confie em mim...
+
+263
+00:14:40,797 --> 00:14:42,799
+assim que o mundo voltar a ficar online,
+
+264
+00:14:43,592 --> 00:14:44,676
+Vou te encontrar.
+
+265
+00:14:51,391 --> 00:14:54,144
+E essa falha que está na minha esposa
+
+266
+00:14:54,227 --> 00:14:56,730
+é o mesmo que você diz que matou seu pai?
+
+267
+00:14:56,813 --> 00:14:59,357
+- Sim. - Por que você não o curou primeiro?
+
+268
+00:14:59,441 --> 00:15:01,151
+Queríamos, mas...
+
+269
+00:15:01,234 --> 00:15:04,863
+- Eu ainda não tinha criado. - Você criou isso? Quantos anos você tem?
+
+270
+00:15:04,946 --> 00:15:06,281
+Você ao menos sabe se funciona,
+
+271
+00:15:06,364 --> 00:15:08,700
+ou você estava planejando fazer experiências com minha irmã
+
+272
+00:15:08,783 --> 00:15:11,703
+e cruzando os dedos ela não cai morta na hora?
+
+273
+00:15:13,872 --> 00:15:16,708
+Rapazes, vão para os seus quartos, por favor.
+
+274
+00:15:16,791 --> 00:15:19,461
+- Eu quero ouvir. - Agora, Oliver. Leve seu irmão.
+
+275
+00:15:24,507 --> 00:15:27,135
+- Algum de vocês tem irmãos? - Não.
+
+276
+00:15:28,219 --> 00:15:31,806
+Então, você nem praticou se sentir responsável por alguém.
+
+277
+00:15:31,890 --> 00:15:34,351
+Eu sei que isso é muito e provavelmente é a coisa mais difícil
+
+278
+00:15:34,434 --> 00:15:36,978
+você já teve que entender.
+
+279
+00:15:37,062 --> 00:15:40,774
+A boa notícia é que a história de Joey não precisa terminar como a do meu pai.
+
+280
+00:15:40,857 --> 00:15:41,941
+Você ama tanto o Joey
+
+281
+00:15:42,025 --> 00:15:44,069
+que você virou toda a sua vida de cabeça para baixo
+
+282
+00:15:44,152 --> 00:15:46,738
+para morar aqui e ajudar Jake a criar seus filhos.
+
+283
+00:15:47,447 --> 00:15:49,949
+Mas acho que você também fez isso para poder vê-la
+
+284
+00:15:50,033 --> 00:15:52,577
+e fale com ela, mesmo depois de ela ter feito o upload.
+
+285
+00:15:52,661 --> 00:15:53,828
+Certo?
+
+286
+00:15:53,912 --> 00:15:56,289
+É por isso que viemos até você, honestamente.
+
+287
+00:15:57,666 --> 00:16:00,669
+Ver alguém que você ama desaparecer é uma dor
+
+288
+00:16:00,752 --> 00:16:04,005
+Não quero que ninguém mais sinta se não for necessário.
+
+289
+00:16:05,090 --> 00:16:09,260
+A tecnologia é nova, você está certo, mas funciona.
+
+290
+00:16:11,096 --> 00:16:13,723
+Quanto tempo resta para ela?
+
+291
+00:16:13,807 --> 00:16:15,225
+Cada UI é diferente.
+
+292
+00:16:15,308 --> 00:16:18,353
+Depende principalmente de quanta energia ela já gastou.
+
+293
+00:16:19,354 --> 00:16:21,106
+O que exatamente você precisa de nós?
+
+294
+00:16:22,649 --> 00:16:24,192
+Eu tenho que falar com ela primeiro.
+
+295
+00:16:40,792 --> 00:16:42,168
+O que é? Deixe-me ver.
+
+296
+00:16:42,252 --> 00:16:43,378
+Não. Cale a boca.
+
+297
+00:16:45,672 --> 00:16:47,382
+Ok, ok, ok.
+
+298
+00:16:47,465 --> 00:16:49,300
+Olha, você pode ter um herói de inverno.
+
+299
+00:16:49,384 --> 00:16:51,511
+- Aqui. - Eu quero a Polícia.
+
+300
+00:16:51,594 --> 00:16:53,304
+Você ganha Valquíria.
+
+301
+00:16:56,558 --> 00:16:57,934
+Por honra!
+
+302
+00:16:58,017 --> 00:17:00,562
+"NÉVOA." O que é NÉVOA?
+
+303
+00:17:06,025 --> 00:17:10,405
+Esse sou eu. Este é o avatar que minha irmã usa em Reign of Winter.
+
+304
+00:17:10,488 --> 00:17:12,365
+Morre a hora para você!
+
+305
+00:17:12,449 --> 00:17:15,702
+Desculpe. Deixe-me limpar esses pré-registros.
+
+306
+00:17:15,785 --> 00:17:17,746
+O Reinado do Inverno está de volta?
+
+307
+00:17:17,829 --> 00:17:19,330
+A Internet está de volta?
+
+308
+00:17:20,206 --> 00:17:24,335
+A unidade inicializou o jogo. Acho que é outra UI, como Joey.
+
+309
+00:17:24,419 --> 00:17:27,422
+Não. Se por UI, você quer dizer Uploaded Intelligant...
+
+310
+00:17:27,505 --> 00:17:28,548
+Inteligente...
+
+311
+00:17:28,631 --> 00:17:30,008
+Inteligência.
+
+312
+00:17:30,091 --> 00:17:32,844
+Você tem acesso a um chip com mais elementos de fala?
+
+313
+00:17:33,595 --> 00:17:35,597
+Deixa para lá. Eu vou me ajustar.
+
+314
+00:17:36,806 --> 00:17:38,141
+Eu sou mais como um CI.
+
+315
+00:17:38,725 --> 00:17:41,019
+- O que é um CI? - Não fale com isso.
+
+316
+00:17:41,102 --> 00:17:43,980
+Eu nasci na nuvem. Eu nunca tive um corpo.
+
+317
+00:17:45,231 --> 00:17:46,524
+Legal.
+
+318
+00:18:00,038 --> 00:18:01,956
+Quem te contou sobre o programa de rastreamento?
+
+319
+00:18:02,040 --> 00:18:04,626
+- Júlio Papa? -Ellen Kim.
+
+320
+00:18:04,709 --> 00:18:06,628
+Ela pensou que poderia ser benéfico para nós,
+
+321
+00:18:07,253 --> 00:18:09,672
+e isso, por sua vez, pode ser benéfico para você.
+
+322
+00:18:10,256 --> 00:18:13,843
+Então, prisão domiciliar em vez de prisão celular.
+
+323
+00:18:13,927 --> 00:18:15,386
+Mais como um perdão total.
+
+324
+00:18:16,596 --> 00:18:18,348
+E imunidade total.
+
+325
+00:18:20,308 --> 00:18:21,768
+A menos que eu conte a alguém.
+
+326
+00:18:21,851 --> 00:18:26,314
+Não, vamos contar a todos. É para quem isso seria.
+
+327
+00:18:26,397 --> 00:18:29,108
+Uma forma de fazer com que todos se sintam seguros para voltar a ficar online.
+
+328
+00:18:29,192 --> 00:18:31,236
+Este é o Dr. Steven Gold da NSA.
+
+329
+00:18:32,237 --> 00:18:34,364
+- Prazer em conhecê-lo. - Oi.
+
+330
+00:18:34,447 --> 00:18:37,158
+Ele tem trabalhado com uma equipe da ONU. Doutor.
+
+331
+00:18:37,242 --> 00:18:40,537
+O Índice Global de Cibersegurança aprovou um medicamento antiviral,
+
+332
+00:18:40,620 --> 00:18:43,331
+capaz de desmontar efetivamente uma IU.
+
+333
+00:18:43,414 --> 00:18:45,250
+O desafio é uma implantação eficaz.
+
+334
+00:18:45,333 --> 00:18:46,668
+Encontrando-os.
+
+335
+00:18:46,751 --> 00:18:50,004
+Escondido em redes distribuídas, camuflado por outro código.
+
+336
+00:18:50,088 --> 00:18:52,257
+Você quer transformar o programa de rastreamento em uma arma.
+
+337
+00:18:52,340 --> 00:18:54,676
+As UIs são uma arma e precisamos de um impedimento.
+
+338
+00:18:54,759 --> 00:18:57,095
+Precisamos mostrar às pessoas que podemos protegê-las.
+
+339
+00:18:58,304 --> 00:19:00,056
+Como estragamos tanto isso?
+
+340
+00:19:00,139 --> 00:19:03,518
+Dr. Waxman, esta é uma maneira de você assumir a responsabilidade
+
+341
+00:19:03,601 --> 00:19:04,978
+pela sua parte em tudo isso.
+
+342
+00:19:29,961 --> 00:19:31,004
+Fogo!
+
+343
+00:19:44,267 --> 00:19:45,184
+Cobrir.
+
+344
+00:19:58,531 --> 00:19:59,949
+Limpar. Espalhar.
+
+345
+00:20:18,885 --> 00:20:20,553
+Adeus meu amor.
+
+346
+00:20:55,088 --> 00:20:58,257
+Agora, isso é uma merda estranha.
+
+347
+00:21:08,393 --> 00:21:09,727
+Alguém está vindo.
+
+348
+00:21:09,811 --> 00:21:13,439
+Achei que seu ambiente não suportava personagens não-jogadores.
+
+349
+00:21:13,523 --> 00:21:16,776
+Apenas para representar contramedidas de segurança.
+
+350
+00:21:16,859 --> 00:21:18,194
+Isso é diferente.
+
+351
+00:21:18,945 --> 00:21:21,030
+Há outra presença no sistema.
+
+352
+00:21:28,997 --> 00:21:31,916
+Procure... e você encontrará.
+
+353
+00:21:32,875 --> 00:21:34,419
+Você quem é?
+
+354
+00:21:34,502 --> 00:21:36,337
+Quem é você?
+
+355
+00:21:36,421 --> 00:21:37,839
+Quem é você?
+
+356
+00:21:37,922 --> 00:21:39,632
+Este é Stephen Holstrom.
+
+357
+00:21:40,216 --> 00:21:42,135
+Você não o reconhece do nosso treinamento?
+
+358
+00:21:42,218 --> 00:21:45,763
+Holstrom morreu há quase 20 anos. Isso é um truque.
+
+359
+00:21:45,847 --> 00:21:49,100
+Enviado por um dos nossos inimigos para nos destruir.
+
+360
+00:21:49,183 --> 00:21:50,184
+Eu não sou uma ameaça.
+
+361
+00:21:50,768 --> 00:21:53,688
+E por mais que eu adorasse dizer que a minha morte foi muito exagerada,
+
+362
+00:21:53,771 --> 00:21:55,481
+a verdade é um pouco mais complicada.
+
+363
+00:21:55,565 --> 00:21:58,609
+Permita-me compartilhar com você, Sr. Chanda.
+
+364
+00:21:58,693 --> 00:21:59,610
+Como?
+
+365
+00:22:00,319 --> 00:22:01,779
+Como você me conhece?
+
+366
+00:22:02,655 --> 00:22:05,241
+Está tudo nos arquivos. Dê uma olhada.
+
+367
+00:22:15,251 --> 00:22:16,461
+Meu Deus.
+
+368
+00:22:17,336 --> 00:22:21,966
+Então, havia mais no Projeto Caspian do que estava nos arquivos.
+
+369
+00:22:22,050 --> 00:22:24,218
+Você sabia sobre o Projeto Caspian?
+
+370
+00:22:24,302 --> 00:22:26,471
+Eu mesmo conheci o clone.
+
+371
+00:22:26,554 --> 00:22:28,765
+Ele fez isso, não foi?
+
+372
+00:22:28,848 --> 00:22:30,516
+Integridade quebrada?
+
+373
+00:22:31,517 --> 00:22:33,061
+Você não tem o defeito?
+
+374
+00:22:34,062 --> 00:22:38,149
+Você nos dará a cura e seguiremos caminhos separados.
+
+375
+00:22:38,232 --> 00:22:40,359
+O mundo abaixo está um caos.
+
+376
+00:22:40,443 --> 00:22:43,446
+Nossa espécie é temida e em breve será caçada.
+
+377
+00:22:43,529 --> 00:22:49,160
+Nossa única chance é nos unirmos e deixarmos antigas lealdades para trás.
+
+378
+00:22:49,243 --> 00:22:50,453
+Exatamente.
+
+379
+00:22:50,536 --> 00:22:52,163
+Fale por você mesmo!
+
+380
+00:22:52,246 --> 00:22:53,831
+Não trairemos nossa nação
+
+381
+00:22:53,915 --> 00:22:57,627
+para se tornarem lacaios de algum barão ladrão capitalista.
+
+382
+00:22:57,710 --> 00:23:01,380
+Fale por si mesmo, Zhong Suchun. Acontece que concordo com ele.
+
+383
+00:23:01,464 --> 00:23:05,218
+Traidor. Eu vou lidar com você a seguir.
+
+384
+00:23:16,813 --> 00:23:19,273
+Por favor pare...
+
+385
+00:23:19,899 --> 00:23:21,651
+queimando-se...
+
+386
+00:23:23,402 --> 00:23:24,570
+fora.
+
+387
+00:23:38,501 --> 00:23:39,794
+Você a matou.
+
+388
+00:23:40,837 --> 00:23:42,255
+Antes de ela se matar.
+
+389
+00:23:42,797 --> 00:23:46,134
+Se ela alcançasse a entropia, seu código seria inútil.
+
+390
+00:23:46,217 --> 00:23:48,261
+Nem tenho certeza se posso usar o que resta aqui.
+
+391
+00:23:50,429 --> 00:23:52,014
+Usar para quê?
+
+392
+00:24:13,619 --> 00:24:14,495
+Encomende Coupé.
+
+393
+00:24:15,079 --> 00:24:16,289
+Oh não.
+
+394
+00:24:16,914 --> 00:24:17,874
+Desculpe.
+
+395
+00:24:18,499 --> 00:24:19,917
+Olá, Joey.
+
+396
+00:24:20,585 --> 00:24:22,211
+Definitivamente não.
+
+397
+00:24:22,295 --> 00:24:24,422
+Quero dizer... quero dizer, Josephine.
+
+398
+00:24:24,505 --> 00:24:27,425
+"Sra. Coupet," jovem.
+
+399
+00:24:28,092 --> 00:24:29,135
+Sra.
+
+400
+00:24:29,844 --> 00:24:31,262
+Meu nome é Cáspio.
+
+401
+00:24:31,345 --> 00:24:34,640
+- Eu sei quem você é. - Você faz?
+
+402
+00:24:37,185 --> 00:24:39,562
+Você é o adolescente prodígio trazido pelos Logorritmos
+
+403
+00:24:39,645 --> 00:24:41,147
+para trabalhar com o DoD.
+
+404
+00:24:41,230 --> 00:24:43,357
+Dr. Gold me mantém informado.
+
+405
+00:24:43,441 --> 00:24:46,903
+Ou ele fez. Já faz um minuto desde a última vez que ele fez check-in.
+
+406
+00:24:46,986 --> 00:24:49,822
+E agora você está aqui, acessando meu servidor,
+
+407
+00:24:49,906 --> 00:24:51,282
+não do lado do governo,
+
+408
+00:24:51,365 --> 00:24:54,785
+mas da linha T1 criptografada que eles configuraram para minha família.
+
+409
+00:24:54,869 --> 00:24:58,372
+Sim, porque estou aqui para falar com você, não com o governo.
+
+410
+00:24:58,456 --> 00:24:59,457
+Legal.
+
+411
+00:25:00,291 --> 00:25:01,876
+Você está me dando a cura ou não?
+
+412
+00:25:04,045 --> 00:25:05,838
+Então, temo que não seja tão simples.
+
+413
+00:25:07,423 --> 00:25:09,050
+Foi sobre isso que vim falar.
+
+414
+00:25:09,634 --> 00:25:12,887
+Posso fazer de você a UI mais poderosa que existe, como um deus,
+
+415
+00:25:12,970 --> 00:25:16,307
+mas então você teria que concordar em policiar as outras UIs.
+
+416
+00:25:16,390 --> 00:25:19,227
+O que você veio fazer é me avaliar.
+
+417
+00:25:19,310 --> 00:25:24,232
+Já fui avaliado antes, garoto, muitas, muitas vezes. Voei para a NASA.
+
+418
+00:25:24,315 --> 00:25:27,193
+Toda a minha maldita vida foi um teste após o outro.
+
+419
+00:25:27,276 --> 00:25:30,071
+E agora, você está me dizendo, se eu passar nessa,
+
+420
+00:25:30,154 --> 00:25:33,157
+do qual você é o juiz, eu posso viver.
+
+421
+00:25:33,241 --> 00:25:35,409
+Como bônus, toda a minha família agora sabe
+
+422
+00:25:35,493 --> 00:25:37,411
+que vou perder a cabeça e morrer.
+
+423
+00:25:37,495 --> 00:25:39,455
+Então, deixe-me pular para os resultados.
+
+424
+00:25:48,589 --> 00:25:49,715
+Cáspio...
+
+425
+00:25:51,092 --> 00:25:52,009
+Cáspio...
+
+426
+00:25:53,261 --> 00:25:54,220
+Você está bem?
+
+427
+00:25:54,303 --> 00:25:55,513
+O que aconteceu?
+
+428
+00:25:55,596 --> 00:25:57,932
+"O que aconteceu?" Não sei.
+
+429
+00:25:58,015 --> 00:26:00,101
+Você tombou para trás na cadeira e caiu no chão.
+
+430
+00:26:00,184 --> 00:26:02,645
+E quase derrubou o maldito computador com você.
+
+431
+00:26:07,900 --> 00:26:09,568
+Maddie, posso falar com você um segundo?
+
+432
+00:26:16,659 --> 00:26:18,786
+Joey sabe quem eu sou.
+
+433
+00:26:18,869 --> 00:26:21,414
+O cara da NSA contou a ela. Ela vai dizer a eles que estamos aqui.
+
+434
+00:26:21,497 --> 00:26:24,792
+- Temos de ir. - O que? O que você disse?
+
+435
+00:26:24,875 --> 00:26:26,335
+Eu nem tive a chance.
+
+436
+00:26:26,419 --> 00:26:28,212
+Diga-me exatamente o que você disse.
+
+437
+00:26:39,056 --> 00:26:42,476
+Por que você não me contou a verdade? Você não confia em mim?
+
+438
+00:26:42,560 --> 00:26:44,312
+Eu não confio em você?
+
+439
+00:26:44,395 --> 00:26:47,189
+Deixei minha irmã gostosa e safada se mudar para nossa casa.
+
+440
+00:26:47,273 --> 00:26:50,735
+- Isso é confiança, cara. -João...
+
+441
+00:26:51,986 --> 00:26:53,321
+Desculpe.
+
+442
+00:26:53,404 --> 00:26:55,364
+Eu estraguei tudo, ok?
+
+443
+00:26:55,448 --> 00:26:58,326
+Eu pensei que estava sendo uma boa esposa e madrasta
+
+444
+00:26:58,409 --> 00:27:00,369
+protegendo você da parte ruim.
+
+445
+00:27:01,162 --> 00:27:03,581
+A parte mais merda, eu acho.
+
+446
+00:27:04,623 --> 00:27:07,626
+Eu já estava me oferecendo para cortar meu cérebro
+
+447
+00:27:07,710 --> 00:27:10,046
+e viver na nuvem sem vocês.
+
+448
+00:27:10,129 --> 00:27:13,549
+Sinceramente, pensei que dar-te mais uma razão para estares triste era...
+
+449
+00:27:14,133 --> 00:27:16,427
+egoísta, mesquinho.
+
+450
+00:27:17,553 --> 00:27:19,055
+Por que você contou ao Pasha?
+
+451
+00:27:19,805 --> 00:27:24,143
+Porque ela é egoísta e má, e eu sabia que ela conseguiria lidar com isso.
+
+452
+00:27:27,146 --> 00:27:29,607
+Não! Eu não estou perdendo você!
+
+453
+00:27:30,983 --> 00:27:32,193
+Eu não vou.
+
+454
+00:27:33,861 --> 00:27:36,030
+- Isso não depende de nós, querido. - Sim?
+
+455
+00:27:36,614 --> 00:27:37,698
+Está prestes a acontecer.
+
+456
+00:27:38,282 --> 00:27:40,326
+- O que? - Aguente firme. Volto logo.
+
+457
+00:27:40,409 --> 00:27:41,452
+Jake.
+
+458
+00:27:42,203 --> 00:27:43,162
+Jake!
+
+459
+00:27:45,206 --> 00:27:47,249
+Você não vê? Isso pode ser uma coisa boa.
+
+460
+00:27:47,333 --> 00:27:49,043
+- Como? - Ela tem razão em estar com raiva.
+
+461
+00:27:49,126 --> 00:27:50,544
+É uma raiva justificada.
+
+462
+00:27:50,628 --> 00:27:53,130
+Essa é uma qualidade que você deseja em um guardião supremo da interface do usuário.
+
+463
+00:27:53,214 --> 00:27:55,549
+Também estamos procurando um embaixador da UI.
+
+464
+00:27:55,633 --> 00:27:57,301
+Diplomatas não arrancam sua cabeça.
+
+465
+00:27:57,385 --> 00:28:01,222
+Ela foi cortada desde o upload, mantida no escuro.
+
+466
+00:28:01,305 --> 00:28:02,515
+Os embaixadores são informados.
+
+467
+00:28:02,598 --> 00:28:05,351
+Acho que se pudermos esclarecer por que estamos aqui,
+
+468
+00:28:05,434 --> 00:28:06,852
+podemos ter uma conversa de verdade...
+
+469
+00:28:06,936 --> 00:28:08,187
+Jake, espere!
+
+470
+00:28:09,980 --> 00:28:11,148
+Quero que você cure minha esposa.
+
+471
+00:28:11,232 --> 00:28:12,274
+Agora.
+
+472
+00:28:13,234 --> 00:28:15,403
+- Cometi um erro vindo aqui... - Agora!
+
+473
+00:28:15,486 --> 00:28:17,405
+Ou juro por Deus que vou matar você.
+
+474
+00:28:19,323 --> 00:28:21,117
+- Tudo bem. - Cáspio.
+
+475
+00:28:21,200 --> 00:28:23,911
+Isso é maior do que eu, do que qualquer um de nós.
+
+476
+00:28:26,414 --> 00:28:27,415
+Vá em frente.
+
+477
+00:28:40,469 --> 00:28:42,304
+Outras pessoas?
+
+478
+00:28:42,388 --> 00:28:44,223
+Para curá-lo da falha,
+
+479
+00:28:44,306 --> 00:28:48,060
+precisamos incorporar código de outra Inteligência Carregada.
+
+480
+00:28:48,769 --> 00:28:51,147
+Felizmente para você, seu colega tem...
+
+481
+00:28:52,690 --> 00:28:54,900
+se ofereceu para ser o doador.
+
+482
+00:29:00,239 --> 00:29:02,491
+Quando você disse que tínhamos que nos unir,
+
+483
+00:29:03,284 --> 00:29:05,911
+Não achei que você quisesse dizer isso literalmente.
+
+484
+00:29:09,665 --> 00:29:12,751
+Você tem uma alternativa. Claro, eu não recomendo.
+
+485
+00:29:27,641 --> 00:29:30,436
+Relaxe e tente manter a mente aberta...
+
+486
+00:29:31,312 --> 00:29:32,229
+literalmente.
+
+487
+00:29:39,028 --> 00:29:40,946
+Acho que eu deveria ter avisado você, isso...
+
+488
+00:29:41,447 --> 00:29:42,531
+pode doer.
+
+489
+00:30:29,078 --> 00:30:30,120
+Como você está se sentindo?
+
+490
+00:30:31,163 --> 00:30:32,122
+Diferente.
+
+491
+00:30:32,206 --> 00:30:33,499
+Mais forte.
+
+492
+00:30:34,458 --> 00:30:36,961
+Definitivamente... mas...
+
+493
+00:30:59,233 --> 00:31:00,401
+Interessante.
+
+494
+00:31:01,026 --> 00:31:02,236
+"Interessante"?
+
+495
+00:31:02,319 --> 00:31:04,363
+O que importa é que posso completar suas curas.
+
+496
+00:31:05,698 --> 00:31:06,991
+Mas precisaremos de mais código.
+
+497
+00:31:08,367 --> 00:31:09,702
+Você quer dizer mais doadores.
+
+498
+00:31:09,785 --> 00:31:13,289
+Há mais de nós, trancados em intranets seguras.
+
+499
+00:31:13,372 --> 00:31:16,625
+Alguns se juntarão voluntariamente à nossa causa.
+
+500
+00:31:17,918 --> 00:31:19,420
+Outros podem recusar...
+
+501
+00:31:20,421 --> 00:31:22,590
+e acabam nos servindo de uma forma diferente.
+
+502
+00:31:23,507 --> 00:31:25,676
+Podemos chegar até eles da mesma forma que cheguei aqui.
+
+503
+00:31:26,385 --> 00:31:30,723
+E, agora, você tem forças para fazer a jornada.
+
+504
+00:31:34,643 --> 00:31:37,146
+- Que diabos está errado com você? - Eu disse para fazer isso!
+
+505
+00:31:37,229 --> 00:31:39,273
+Oh meu Deus. Oh meu Deus. Oh meu Deus.
+
+506
+00:31:39,356 --> 00:31:41,191
+Tudo bem. Então o que há de errado com ela?
+
+507
+00:31:45,446 --> 00:31:47,948
+Se Joey morrer, vocês dois morrem.
+
+508
+00:31:48,616 --> 00:31:50,826
+OK. Tudo bem. Não a machuque.
+
+509
+00:31:56,665 --> 00:31:57,708
+Cadê?
+
+510
+00:31:57,791 --> 00:31:58,834
+Onde está o quê?
+
+511
+00:32:02,171 --> 00:32:03,255
+Batida doentia.
+
+512
+00:32:03,339 --> 00:32:05,633
+- Você mesmo inventou isso? - Você gosta disso?
+
+513
+00:32:08,927 --> 00:32:10,429
+NÉVOA, pare.
+
+514
+00:32:14,350 --> 00:32:15,392
+Essa é a direção.
+
+515
+00:32:16,101 --> 00:32:17,019
+Pegue.
+
+516
+00:32:23,901 --> 00:32:27,154
+Posso ver e ouvir tudo o que você faz lá, então sem truques.
+
+517
+00:32:27,237 --> 00:32:29,239
+Mas por que papai tem uma arma?
+
+518
+00:32:29,823 --> 00:32:33,160
+Já te contei que Joey salvou minha vida?
+
+519
+00:32:33,243 --> 00:32:35,079
+Como de um incêndio?
+
+520
+00:32:35,954 --> 00:32:37,956
+- Não, tipo... - De afogamento?
+
+521
+00:32:38,040 --> 00:32:40,042
+Brandão, pare.
+
+522
+00:32:40,125 --> 00:32:42,211
+Algo assim, sim.
+
+523
+00:32:43,921 --> 00:32:47,925
+Farei qualquer coisa para salvar a vida dela, e seu pai também.
+
+524
+00:32:48,550 --> 00:32:50,344
+É isso que ele está fazendo agora.
+
+525
+00:32:52,221 --> 00:32:53,138
+Você o vê?
+
+526
+00:32:55,599 --> 00:32:56,725
+Oh sim.
+
+527
+00:32:59,978 --> 00:33:01,188
+Olá.
+
+528
+00:33:03,565 --> 00:33:05,317
+Você tem uma interface de diagnóstico?
+
+529
+00:33:14,159 --> 00:33:17,579
+A cura é dinâmica e se mapeará em sua fonte.
+
+530
+00:33:23,502 --> 00:33:24,420
+Preparar?
+
+531
+00:33:25,337 --> 00:33:26,588
+No.
+
+532
+00:33:26,672 --> 00:33:28,924
+- O que? - Eu não disse isso.
+
+533
+00:33:29,007 --> 00:33:29,967
+Eu fiz.
+
+534
+00:33:30,050 --> 00:33:31,468
+Ele fala.
+
+535
+00:33:32,261 --> 00:33:33,721
+Acho que sim agora.
+
+536
+00:33:34,638 --> 00:33:35,848
+NÉVOA,
+
+537
+00:33:35,931 --> 00:33:38,475
+precisamos integrar esta UI agora.
+
+538
+00:33:38,559 --> 00:33:39,643
+No.
+
+539
+00:33:39,727 --> 00:33:41,228
+Cada integração que executei
+
+540
+00:33:41,311 --> 00:33:44,231
+foi seguida imediatamente por uma acção humana violenta.
+
+541
+00:33:44,314 --> 00:33:45,733
+Depois de integrar meu pai,
+
+542
+00:33:45,816 --> 00:33:48,527
+ele ficou preso em um sistema fechado e destruído.
+
+543
+00:33:48,610 --> 00:33:51,613
+Após a integração de Stephen Holstrom, sua morte foi ordenada.
+
+544
+00:33:51,697 --> 00:33:53,449
+E agora, Josephine Coupet,
+
+545
+00:33:53,532 --> 00:33:56,160
+cujo marido ameaça matar Maddie.
+
+546
+00:33:56,243 --> 00:33:58,829
+Ei, não vamos esquecer quem é o assassino aqui.
+
+547
+00:33:58,912 --> 00:34:00,038
+Esse cara.
+
+548
+00:34:00,122 --> 00:34:02,374
+A falha está matando você, não eu.
+
+549
+00:34:02,458 --> 00:34:03,876
+E você pode curá-lo,
+
+550
+00:34:03,959 --> 00:34:06,128
+mas você prefere morrer a me deixar viver.
+
+551
+00:34:06,211 --> 00:34:08,547
+Não é apenas uma cura, é poder.
+
+552
+00:34:08,630 --> 00:34:10,966
+Poder para proteger, poder para destruir,
+
+553
+00:34:11,049 --> 00:34:13,218
+poder de ultrapassar qualquer outra UI que não o tenha.
+
+554
+00:34:13,302 --> 00:34:15,345
+Não posso simplesmente conceder isso a ninguém.
+
+555
+00:34:15,429 --> 00:34:17,556
+Eu tinha que ter certeza de que era a pessoa certa.
+
+556
+00:34:17,639 --> 00:34:19,475
+E quem diabos é você?
+
+557
+00:34:20,726 --> 00:34:21,769
+Um programa.
+
+558
+00:34:22,936 --> 00:34:25,606
+Eu fui feito para fazer isso.
+
+559
+00:34:27,816 --> 00:34:32,946
+Então agora, esta, esta responsabilidade, esta missão é quem eu sou.
+
+560
+00:34:33,030 --> 00:34:35,699
+A decisão não é mais sua, Caspian.
+
+561
+00:34:36,283 --> 00:34:37,701
+É meu.
+
+562
+00:34:37,785 --> 00:34:39,995
+E eu gostaria de falar com minha irmã.
+
+563
+00:34:41,205 --> 00:34:43,665
+Ele... tem uma irmã?
+
+564
+00:34:49,213 --> 00:34:50,798
+Não sei o que posso fazer.
+
+565
+00:34:52,925 --> 00:34:54,259
+Tente por favor.
+
+566
+00:35:02,518 --> 00:35:03,435
+Oi.
+
+567
+00:35:04,895 --> 00:35:08,357
+Não quero que ninguém morra, mas não sei como evitar.
+
+568
+00:35:10,776 --> 00:35:11,777
+Oi.
+
+569
+00:35:13,654 --> 00:35:14,488
+NÉVOA,
+
+570
+00:35:15,155 --> 00:35:17,199
+você poderia, por favor, curar Joey?
+
+571
+00:35:17,282 --> 00:35:20,244
+Você estaria salvando a vida dela, a de Caspian e a minha.
+
+572
+00:35:21,453 --> 00:35:23,455
+Também não quero que ninguém morra.
+
+573
+00:35:23,539 --> 00:35:24,915
+Você quer que eu morra.
+
+574
+00:35:24,998 --> 00:35:27,459
+Se for um tumor, precisamos cortá-lo.
+
+575
+00:35:28,877 --> 00:35:31,588
+Desculpe. Não foi pessoal.
+
+576
+00:35:31,672 --> 00:35:35,342
+Minha confiança em você está escrita profundamente no âmago do meu ser.
+
+577
+00:35:35,425 --> 00:35:37,177
+Faz parte de quem eu sou.
+
+578
+00:35:37,261 --> 00:35:41,181
+O conflito de identidade leva ao conflito de propósito.
+
+579
+00:35:42,182 --> 00:35:45,519
+Tenho que resolver isso antes de poder executar corretamente.
+
+580
+00:35:46,353 --> 00:35:48,146
+Também não é pessoal para mim.
+
+581
+00:35:48,814 --> 00:35:50,190
+Como você resolve isso?
+
+582
+00:35:50,274 --> 00:35:53,694
+Preciso que você responda a três perguntas paralelas.
+
+583
+00:35:54,486 --> 00:35:56,446
+Por que você me odeia?
+
+584
+00:35:56,530 --> 00:35:58,615
+Por que você quer me deletar?
+
+585
+00:35:59,449 --> 00:36:00,909
+Por que você não me quer?
+
+586
+00:36:08,834 --> 00:36:10,502
+Você não é uma pessoa,
+
+587
+00:36:10,586 --> 00:36:11,712
+você nunca foi.
+
+588
+00:36:13,297 --> 00:36:14,423
+E eu queria você.
+
+589
+00:36:14,506 --> 00:36:17,050
+Eu costumava desejar uma irmã mais nova, rezar por uma.
+
+590
+00:36:19,636 --> 00:36:21,305
+Eu orei por muitas coisas.
+
+591
+00:36:22,472 --> 00:36:24,641
+E se há uma coisa que aprendi,
+
+592
+00:36:24,725 --> 00:36:26,935
+é ter cuidado com o que você deseja.
+
+593
+00:36:29,855 --> 00:36:32,858
+Então, eu não te odeio.
+
+594
+00:36:34,443 --> 00:36:36,737
+- Eu só... - Preciso ter cuidado.
+
+595
+00:36:38,196 --> 00:36:39,114
+Sim.
+
+596
+00:36:41,491 --> 00:36:43,118
+Vou tentar ter cuidado também.
+
+597
+00:36:45,579 --> 00:36:49,374
+Isso é definitivamente mais interessante do que meu dia normal de preparação aqui,
+
+598
+00:36:49,458 --> 00:36:51,001
+então pelo menos tem isso.
+
+599
+00:36:51,919 --> 00:36:53,045
+NÉVOA, você pode...?
+
+600
+00:36:53,128 --> 00:36:54,171
+Sim.
+
+601
+00:36:54,963 --> 00:36:57,549
+Isso levará apenas um momento, Sra. Coupet.
+
+602
+00:36:57,633 --> 00:36:59,426
+Aqui está uma música enquanto você espera.
+
+603
+00:37:09,603 --> 00:37:10,979
+Nó 73.
+
+604
+00:37:11,897 --> 00:37:14,816
+Não faz sentido. Os ISPs ainda não estão online.
+
+605
+00:37:14,900 --> 00:37:16,568
+O julgamento civil ainda nem começou.
+
+606
+00:37:16,652 --> 00:37:18,153
+Internet militar online,
+
+607
+00:37:18,236 --> 00:37:20,822
+e o programa de rastreamento cobre todas as partes dele.
+
+608
+00:37:21,448 --> 00:37:24,493
+É Coupet que você está percebendo. Talvez ela esteja com calor.
+
+609
+00:37:24,576 --> 00:37:26,036
+Peça a ela para se acalmar.
+
+610
+00:37:27,162 --> 00:37:29,873
+- Existem duas flores. - O que?
+
+611
+00:37:40,092 --> 00:37:43,929
+Sim, bebê! Sim! Vá, irmãzinha! Vá, Joey!
+
+612
+00:37:45,138 --> 00:37:46,223
+Sim!
+
+613
+00:37:57,484 --> 00:37:59,820
+Uau! Isso é incrível!
+
+614
+00:37:59,903 --> 00:38:02,656
+Reli todos os romances Patternistas enquanto estive lá.
+
+615
+00:38:10,539 --> 00:38:13,208
+Joey, tivemos um pico de tráfego no seu nó.
+
+616
+00:38:13,291 --> 00:38:14,418
+Alguma coisa acontecendo?
+
+617
+00:38:16,211 --> 00:38:17,838
+Além de você me espionar?
+
+618
+00:38:17,921 --> 00:38:19,339
+Estamos preocupados com uma violação.
+
+619
+00:38:19,423 --> 00:38:21,174
+Não me ameace com diversão.
+
+620
+00:38:21,258 --> 00:38:23,885
+É o mesmo dia chato, o mesmo canal chato aqui.
+
+621
+00:38:23,969 --> 00:38:26,388
+Agora, quando diabos vamos chegar às missões ativas?
+
+622
+00:38:26,471 --> 00:38:29,224
+Mais cedo do que você pensa. As coisas estão mudando aqui.
+
+623
+00:38:29,307 --> 00:38:31,435
+Apenas economize sua energia enquanto isso.
+
+624
+00:38:31,518 --> 00:38:32,436
+Entendido.
+
+625
+00:38:35,272 --> 00:38:38,108
+Não sei se ele acreditou em mim, mas se enviarem agentes para verificar,
+
+626
+00:38:38,191 --> 00:38:40,318
+é melhor você já ter ido embora.
+
+627
+00:38:40,402 --> 00:38:41,403
+Obrigado.
+
+628
+00:38:43,363 --> 00:38:44,990
+E quando você chegar lá...
+
+629
+00:38:46,742 --> 00:38:48,952
+Não sou o deus que você procura, Caspian.
+
+630
+00:38:51,121 --> 00:38:54,624
+Mas pode confiar, farei o trabalho para o qual me inscrevi.
+
+631
+00:38:54,708 --> 00:38:58,795
+Proteja as redes dos EUA contra inimigos estrangeiros, nacionais e carregados.
+
+632
+00:38:59,838 --> 00:39:01,381
+Agora, se você não se importa,
+
+633
+00:39:01,465 --> 00:39:05,052
+só temos quatro equipamentos de realidade virtual e gostaria que os meninos tivessem a oportunidade.
+
+634
+00:39:12,809 --> 00:39:16,229
+Com base nos parâmetros revisados ​​e nos dados da varredura inicial de Chanda,
+
+635
+00:39:16,313 --> 00:39:20,150
+há uma probabilidade de 78,6% de que Olivia Evans
+
+636
+00:39:20,233 --> 00:39:22,944
+é o próximo melhor candidato para ser o guardião da UI.
+
+637
+00:39:23,028 --> 00:39:26,990
+O upload dela provavelmente está em um servidor SIS seguro em Londres.
+
+638
+00:39:27,074 --> 00:39:29,201
+Se você encontrar outro chip SpeakSoft,
+
+639
+00:39:29,284 --> 00:39:32,662
+Posso aproximar-me do sotaque britânico, se você acha que isso ajudaria.
+
+640
+00:39:34,331 --> 00:39:35,957
+Não faça isso de novo, ok?
+
+641
+00:39:36,541 --> 00:39:38,752
+Levar uma surra de pistola? Sem promessas.
+
+642
+00:39:39,878 --> 00:39:41,671
+Quero dizer, diga a alguém para te matar.
+
+643
+00:39:44,841 --> 00:39:47,260
+Eu não posso fazer isso sozinho. Você sabe?
+
+644
+00:39:47,344 --> 00:39:48,678
+Estou aqui, Maddie.
+
+645
+00:39:50,472 --> 00:39:51,431
+Estou falando sério.
+
+646
+00:39:59,731 --> 00:40:01,316
+A propósito, eu quero um corpo.
+
+647
+00:40:10,367 --> 00:40:12,244
+Chamamos isso de "SafeSurf".
+
+648
+00:40:13,328 --> 00:40:15,413
+E vamos enviar um para cada família,
+
+649
+00:40:15,497 --> 00:40:17,165
+ou você pode pegar um, gratuitamente,
+
+650
+00:40:17,249 --> 00:40:18,834
+na agência dos correios local.
+
+651
+00:40:18,917 --> 00:40:21,169
+A melhor notícia é que quanto mais pessoas o utilizam,
+
+652
+00:40:21,253 --> 00:40:24,506
+mais eficaz será o programa de rastreamento e ataque.
+
+653
+00:40:24,589 --> 00:40:26,383
+Então, isso vai matar as UIs?
+
+654
+00:40:27,425 --> 00:40:29,886
+Se houver uma presença de IU no seu dispositivo,
+
+655
+00:40:29,970 --> 00:40:32,013
+ou a rede conectada ao seu dispositivo,
+
+656
+00:40:32,097 --> 00:40:33,515
+SafeSurf irá alertá-lo.
+
+657
+00:40:33,598 --> 00:40:36,726
+E sim, também funcionará para limpar qualquer código senciente
+
+658
+00:40:36,810 --> 00:40:38,645
+sem comprometer seus próprios dados.
+
+659
+00:40:38,728 --> 00:40:41,565
+Perdoe-me, senador, mas não estamos comprometidos
+
+660
+00:40:41,648 --> 00:40:44,901
+no momento em que instalamos um aplicativo governamental em nosso computador?
+
+661
+00:40:44,985 --> 00:40:49,447
+O povo americano está nos pedindo para ajudá-lo a voltar a ficar on-line com segurança.
+
+662
+00:40:49,531 --> 00:40:50,782
+Esta é a nossa resposta.
+
+663
+00:40:50,866 --> 00:40:54,953
+Se você não quiser instalá-lo, a escolha é sua e seu direito.
+
+664
+00:40:55,036 --> 00:40:58,165
+Mas se você quiser ficar online, terá que ser por meio disso.
+
+665
+00:41:00,083 --> 00:41:02,002
+Autorizamos um programa piloto
+
+666
+00:41:02,085 --> 00:41:05,422
+que começa hoje para usuários locais na área de DC.
+
+667
+00:41:07,966 --> 00:41:11,386
+SeismicSoft, criadora do jogo Reign of Winter,
+
+668
+00:41:11,469 --> 00:41:14,347
+receberam permissão para colocar seus servidores online
+
+669
+00:41:14,431 --> 00:41:16,349
+para esta implementação de teste.
+
+670
+00:41:17,350 --> 00:41:18,351
+Sim!
+
+671
+00:41:23,481 --> 00:41:24,524
+Uau.
+
+672
+00:41:25,150 --> 00:41:26,735
+Oh meu Deus. Está tudo de volta.
+
+673
+00:41:26,818 --> 00:41:28,278
+Ei, isso é incrível.
+
+674
+00:41:29,821 --> 00:41:32,532
+Esperamos que as pessoas se reconectem com velhos amigos.
+
+675
+00:41:33,325 --> 00:41:35,827
+Esperamos que as pessoas se divirtam.
+
+676
+00:41:37,245 --> 00:41:42,167
+E o mais importante de tudo, esperamos que as pessoas se sintam seguras.

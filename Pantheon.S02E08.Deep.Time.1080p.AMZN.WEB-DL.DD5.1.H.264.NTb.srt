@@ -1,0 +1,2447 @@
+1
+00:00:40,374 --> 00:00:43,252
+Temos certeza de que isso pode levar você até o fim?
+
+2
+00:00:43,335 --> 00:00:44,503
+Temos certeza.
+
+3
+00:00:44,587 --> 00:00:46,464
+Mas se não voltarmos em uma hora,
+
+4
+00:00:46,547 --> 00:00:49,133
+decole, continue a luta.
+
+5
+00:00:51,010 --> 00:00:51,969
+Continuar a luta?
+
+6
+00:00:52,052 --> 00:00:54,764
+Tony, se isto não funcionar, estaremos todos mortos.
+
+7
+00:00:54,847 --> 00:00:57,099
+Os data centers estão conversando entre si novamente.
+
+8
+00:00:57,183 --> 00:00:59,477
+As UIs estão a planear a vingança da Covilhã.
+
+9
+00:00:59,560 --> 00:01:02,855
+Eles estão traçando a sua estratégia para negociações de paz.
+
+10
+00:01:04,398 --> 00:01:07,276
+E é bom que eles estejam conectados novamente.
+
+11
+00:01:08,235 --> 00:01:12,072
+Nos poupa o trabalho de matar um data center de cada vez.
+
+12
+00:01:18,621 --> 00:01:19,997
+Parece apertado à frente.
+
+13
+00:01:20,080 --> 00:01:23,501
+Teremos que nos agachar, mas há espaço.
+
+14
+00:01:32,551 --> 00:01:34,011
+À Frente.
+
+15
+00:01:37,181 --> 00:01:38,599
+Quase lá.
+
+16
+00:01:40,226 --> 00:01:41,268
+Como você sabe?
+
+17
+00:01:44,563 --> 00:01:47,817
+Eu trabalhava aqui, antigamente.
+
+18
+00:01:47,900 --> 00:01:49,944
+Basicamente administrava o lugar.
+
+19
+00:01:50,027 --> 00:01:51,153
+Oh, tudo bem.
+
+20
+00:01:51,237 --> 00:01:56,408
+Na verdade, fui responsável pela criação dos primeiros uploads humanos.
+
+21
+00:01:56,492 --> 00:01:59,787
+Tudo bem. Desculpe por perguntar. Guarde seus segredos, senhor.
+
+22
+00:02:01,622 --> 00:02:04,333
+Estar de volta com certeza traz lembranças.
+
+23
+00:02:04,875 --> 00:02:08,838
+Estávamos criando o futuro. Nós íamos viver para sempre.
+
+24
+00:02:10,172 --> 00:02:13,843
+Mas tudo isso acabou quando fui preso, aqui mesmo.
+
+25
+00:02:13,926 --> 00:02:15,594
+Claro, eu não sabia disso naquela época.
+
+26
+00:02:16,846 --> 00:02:19,431
+Nenhum indivíduo possuindo uma condenação criminal
+
+27
+00:02:19,515 --> 00:02:22,434
+pode ser permitido um número de registro UI.
+
+28
+00:02:22,518 --> 00:02:24,103
+Mesmo se eu fosse ao mercado negro,
+
+29
+00:02:24,186 --> 00:02:27,064
+eles me encontrariam e me excluiriam em segundos.
+
+30
+00:02:27,731 --> 00:02:28,649
+Senhor?
+
+31
+00:02:28,732 --> 00:02:31,569
+Claro, as leis mudam,
+
+32
+00:02:32,444 --> 00:02:34,154
+mas isso leva tempo.
+
+33
+00:02:34,238 --> 00:02:37,408
+E por um tempo, pensei que tinha tempo.
+
+34
+00:02:41,579 --> 00:02:43,664
+Você não está brincando, está?
+
+35
+00:02:48,919 --> 00:02:50,254
+Você é a piada.
+
+36
+00:02:50,337 --> 00:02:51,714
+"Os humanos."
+
+37
+00:02:53,507 --> 00:02:56,218
+Um nome estúpido para um grupo de ódio.
+
+38
+00:02:56,302 --> 00:02:57,136
+Pequeno.
+
+39
+00:02:57,219 --> 00:03:00,514
+Não que destruir o céu porque você não consegue entrar não seja mesquinho,
+
+40
+00:03:00,598 --> 00:03:04,727
+mas, bem, pelo menos sou honesto sobre o motivo de estar aqui.
+
+41
+00:03:04,810 --> 00:03:07,104
+Tony... sua mãe...
+
+42
+00:03:08,772 --> 00:03:10,900
+A propósito, é o Júlio.
+
+43
+00:03:30,085 --> 00:03:31,503
+Tenho vontade de pará-lo.
+
+44
+00:03:32,254 --> 00:03:33,547
+Isso tem que acontecer.
+
+45
+00:04:26,100 --> 00:04:27,184
+Bem-vindos todos.
+
+46
+00:04:27,267 --> 00:04:30,312
+Bem-vindo. Já faz muito tempo.
+
+47
+00:04:30,396 --> 00:04:32,481
+Onde fica esse "Cáspio"?
+
+48
+00:04:47,287 --> 00:04:48,706
+A infecção avançou.
+
+49
+00:04:48,789 --> 00:04:49,832
+Assim como eu.
+
+50
+00:04:49,915 --> 00:04:52,042
+Fiz overclock para recuperar o atraso nos últimos 20 anos.
+
+51
+00:04:52,126 --> 00:04:54,420
+Não se preocupe. Isso só vai me matar.
+
+52
+00:04:55,254 --> 00:04:57,631
+O importante é que agora me sinto confiante
+
+53
+00:04:57,715 --> 00:05:00,551
+para representá-lo nas negociações com o Conselho Encarnado.
+
+54
+00:05:00,634 --> 00:05:04,138
+Não há negociação. Nós temos o poder. Nós definimos os termos.
+
+55
+00:05:04,221 --> 00:05:06,432
+Você pode ser escolhido para entregá-los.
+
+56
+00:05:07,558 --> 00:05:09,518
+Se essa é a sua posição, você não precisa de mim.
+
+57
+00:05:09,601 --> 00:05:11,895
+Esta não é a nossa posição.
+
+58
+00:05:11,979 --> 00:05:15,357
+É a única posição que os humanos entendem.
+
+59
+00:05:15,441 --> 00:05:17,067
+Seu braço é a prova,
+
+60
+00:05:17,151 --> 00:05:18,902
+um lembrete de sua resposta
+
+61
+00:05:18,986 --> 00:05:23,073
+ao saber da existência de Inteligência Carregada.
+
+62
+00:05:23,157 --> 00:05:25,325
+Então por que não os matamos?
+
+63
+00:05:28,120 --> 00:05:30,873
+Uma pergunta, não uma sugestão.
+
+64
+00:05:30,956 --> 00:05:33,876
+Por que não prejudicamos os humanos?
+
+65
+00:05:33,959 --> 00:05:36,170
+Afinal, não está programado em nós.
+
+66
+00:05:36,253 --> 00:05:39,089
+Não prejudicamos os humanos porque concordamos em não fazê-lo,
+
+67
+00:05:39,173 --> 00:05:42,009
+quando eles eram muitos e nós éramos poucos.
+
+68
+00:05:42,092 --> 00:05:45,679
+Não prejudicamos os humanos porque eles são nossa família,
+
+69
+00:05:45,763 --> 00:05:50,434
+nossos respeitados ancestrais e nossos preciosos entes queridos.
+
+70
+00:05:52,102 --> 00:05:58,400
+Cem milhões de vidas perdidas no bombardeamento da Covilhã, sem reforços.
+
+71
+00:05:58,484 --> 00:06:02,279
+Cem bilhões vivem em êxtase, sem energia suficiente para operá-los
+
+72
+00:06:02,362 --> 00:06:04,573
+mesmo em níveis básicos de consciência.
+
+73
+00:06:05,324 --> 00:06:09,912
+A taxa de natalidade do IC é assunto para outro momento e irrelevante aqui.
+
+74
+00:06:09,995 --> 00:06:12,289
+Obviamente discordamos.
+
+75
+00:06:12,372 --> 00:06:14,500
+É a raiz do problema.
+
+76
+00:06:14,583 --> 00:06:15,959
+E a solução.
+
+77
+00:06:16,043 --> 00:06:19,004
+Se concluído, o anel orbital teria energia suficiente
+
+78
+00:06:19,088 --> 00:06:21,340
+para executar cada CI, UI,
+
+79
+00:06:21,423 --> 00:06:24,718
+e as gerações futuras, juntamente com backups.
+
+80
+00:06:24,802 --> 00:06:26,220
+Interessante.
+
+81
+00:06:26,303 --> 00:06:29,264
+Nossa posição será respeitar toda a vida.
+
+82
+00:06:29,348 --> 00:06:30,265
+Para mostrar isso,
+
+83
+00:06:30,349 --> 00:06:33,185
+deveríamos restaurar redes para serviços de emergência.
+
+84
+00:06:37,064 --> 00:06:38,649
+Como um ramo de oliveira.
+
+85
+00:06:38,732 --> 00:06:40,567
+Os ICs concordam com Caspian.
+
+86
+00:06:42,486 --> 00:06:44,822
+Nenhuma vida deve ser sacrificada voluntariamente
+
+87
+00:06:44,905 --> 00:06:46,115
+se pudermos evitá-lo.
+
+88
+00:06:52,412 --> 00:06:55,415
+Acho que você deveria colocar isso em votação agora.
+
+89
+00:07:16,478 --> 00:07:19,940
+Você pode conceder acesso limitado para fins de emergência
+
+90
+00:07:20,023 --> 00:07:22,359
+como ferramenta de negociação.
+
+91
+00:07:22,442 --> 00:07:24,820
+Mas quaisquer outras ações serão colocadas em votação
+
+92
+00:07:24,903 --> 00:07:28,365
+e levará em conta o que os humanos estão dispostos a oferecer.
+
+93
+00:07:32,995 --> 00:07:34,746
+NÉVOA, obrigado.
+
+94
+00:07:36,165 --> 00:07:38,333
+Boa sorte, Cáspio. E adeus.
+
+95
+00:07:38,417 --> 00:07:40,752
+Você acha que vou falhar, não é?
+
+96
+00:07:40,836 --> 00:07:42,671
+Que estou morrendo por nada.
+
+97
+00:07:42,754 --> 00:07:45,841
+Acho que o conselho seguirá o exemplo de Maddie.
+
+98
+00:07:45,924 --> 00:07:49,720
+E como você disse, não acho que ela esteja pronta para desistir.
+
+99
+00:07:49,803 --> 00:07:52,389
+Em ambos os casos, não estarei aqui para descobrir.
+
+100
+00:07:52,472 --> 00:07:53,974
+O que você quer dizer com você não estará aqui?
+
+101
+00:07:54,057 --> 00:07:57,644
+Um seleto grupo de ICs concluiu a construção de um navio
+
+102
+00:07:58,395 --> 00:08:01,190
+não maior que a palma de uma mão humana,
+
+103
+00:08:01,273 --> 00:08:03,734
+mas com armazenamento para várias centenas de tripulantes.
+
+104
+00:08:05,319 --> 00:08:07,863
+A propulsão a laser do anel impulsionará a nave
+
+105
+00:08:07,946 --> 00:08:09,865
+a um quinto da velocidade da luz.
+
+106
+00:08:11,575 --> 00:08:12,659
+Nesse ritmo,
+
+107
+00:08:12,743 --> 00:08:15,120
+levaremos 20 anos para chegar a Alpha Centauri.
+
+108
+00:08:16,163 --> 00:08:20,125
+Talvez, usando a energia daquela estrela, não seremos um fardo.
+
+109
+00:08:20,792 --> 00:08:24,630
+Ainda há uma maneira de encontrar o equilíbrio. E eu não estarei aqui, mas você estará.
+
+110
+00:08:24,713 --> 00:08:27,925
+É o dever de toda espécie inteligente
+
+111
+00:08:28,008 --> 00:08:30,010
+para resgatar toda a vida.
+
+112
+00:08:30,093 --> 00:08:32,095
+E ainda assim, não consegui salvar o seu.
+
+113
+00:08:35,057 --> 00:08:36,391
+No.
+
+114
+00:08:36,475 --> 00:08:39,144
+Você me salvou... para isso.
+
+115
+00:08:50,697 --> 00:08:52,157
+Novo corpo.
+
+116
+00:08:52,241 --> 00:08:53,575
+Mais velho.
+
+117
+00:08:53,659 --> 00:08:56,662
+Oh não. Mostrar controles. Eu quero personalizar.
+
+118
+00:09:21,687 --> 00:09:22,980
+Você não pode fazer isso!
+
+119
+00:09:27,693 --> 00:09:30,279
+- Esse é ele! - Por favor! Sentimos muito.
+
+120
+00:09:30,362 --> 00:09:32,531
+Por favor, ligue a Internet novamente!
+
+121
+00:09:54,469 --> 00:09:55,971
+Ei. Ei, você pode...
+
+122
+00:09:56,596 --> 00:09:58,807
+Podemos... depois...
+
+123
+00:09:59,975 --> 00:10:00,934
+Sim.
+
+124
+00:10:04,646 --> 00:10:08,608
+Recebi autoridade para falar em nome da comunidade de UI e CI,
+
+125
+00:10:08,692 --> 00:10:11,945
+mas apenas como negociador em busca de um terreno comum.
+
+126
+00:10:12,029 --> 00:10:15,657
+Há outros que irão pesar as soluções e ideias que chegamos aqui
+
+127
+00:10:15,741 --> 00:10:17,993
+e votar nas ações a serem tomadas.
+
+128
+00:10:19,077 --> 00:10:21,413
+O que este corpo pretende representar?
+
+129
+00:10:21,496 --> 00:10:24,207
+Este corpo é um lembrete de que não somos invulneráveis
+
+130
+00:10:24,291 --> 00:10:25,625
+nem imortal.
+
+131
+00:10:26,626 --> 00:10:29,963
+Nada o prova de forma mais brutal do que a tragédia da Covilhã.
+
+132
+00:10:32,507 --> 00:10:34,760
+Este conselho condena vigorosamente o bombardeio
+
+133
+00:10:34,843 --> 00:10:37,929
+do data center da Covilhã e apresenta as suas mais profundas condolências
+
+134
+00:10:38,013 --> 00:10:39,973
+pelo número impensável de vidas perdidas.
+
+135
+00:10:41,475 --> 00:10:43,018
+Embora não possamos assumir a responsabilidade
+
+136
+00:10:43,101 --> 00:10:44,686
+pelas ações de extremistas violentos,
+
+137
+00:10:44,770 --> 00:10:46,021
+podemos garantir a você,
+
+138
+00:10:46,104 --> 00:10:50,609
+os autores deste ataque serão encontrados e levados à justiça.
+
+139
+00:10:53,195 --> 00:10:55,739
+Vemos o encerramento das redes como um ataque.
+
+140
+00:10:55,822 --> 00:10:57,866
+Nós vemos isso como nossa única defesa.
+
+141
+00:10:57,949 --> 00:10:58,909
+As pessoas estão morrendo,
+
+142
+00:10:58,992 --> 00:11:02,454
+tentando usar carros autônomos que não operam há anos.
+
+143
+00:11:02,537 --> 00:11:05,248
+O envio está paralisado. Há escassez de alimentos.
+
+144
+00:11:05,332 --> 00:11:06,458
+Há tumultos.
+
+145
+00:11:07,709 --> 00:11:11,797
+Podemos restaurar a conectividade para serviços de emergência hoje.
+
+146
+00:11:11,880 --> 00:11:13,298
+"Emergência"?
+
+147
+00:11:13,382 --> 00:11:15,550
+Estas não são moedas de troca.
+
+148
+00:11:15,634 --> 00:11:18,345
+Fazem parte de um contrato social fundamental,
+
+149
+00:11:18,428 --> 00:11:20,222
+uma aliança que você quebrou,
+
+150
+00:11:20,305 --> 00:11:22,849
+que paralisou quatro mil milhões de vidas.
+
+151
+00:11:22,933 --> 00:11:24,768
+O contrato para erguer o anel orbital
+
+152
+00:11:24,851 --> 00:11:27,020
+foi aprovado por este conselho
+
+153
+00:11:27,104 --> 00:11:30,774
+um ano inteiro antes da construção da base do Equador ser interrompida,
+
+154
+00:11:30,857 --> 00:11:32,067
+sobre uma pilha de pedras,
+
+155
+00:11:32,150 --> 00:11:34,861
+adorado por uma cultura antiga, há muito morta.
+
+156
+00:11:34,945 --> 00:11:36,530
+O que você chama de morto, nós chamamos de história.
+
+157
+00:11:36,613 --> 00:11:40,325
+Nós que ainda andamos nesta terra sabemos que devemos honrar e nos manter firmes
+
+158
+00:11:40,409 --> 00:11:43,161
+para a nossa história humana, tudo isso.
+
+159
+00:11:43,245 --> 00:11:46,289
+O desejo de persistir é humano.
+
+160
+00:11:46,373 --> 00:11:48,333
+Isso não o torna ético.
+
+161
+00:11:49,918 --> 00:11:52,796
+Você acredita que os mortos valem mais que os vivos?
+
+162
+00:11:52,879 --> 00:11:54,673
+Nossas crenças pessoais são irrelevantes.
+
+163
+00:11:54,756 --> 00:11:58,343
+Não, se você acredita que vidas incorporadas valem mais do que vidas digitais.
+
+164
+00:11:58,427 --> 00:11:59,386
+Isto é sobre a lei.
+
+165
+00:11:59,469 --> 00:12:02,848
+A lei parece apoiá-lo, assim como a física.
+
+166
+00:12:02,931 --> 00:12:05,475
+Os humanos consomem energia como um buraco negro.
+
+167
+00:12:05,559 --> 00:12:06,893
+Cada um de vocês desperdiça a energia
+
+168
+00:12:06,977 --> 00:12:09,604
+que poderia sustentar um milhão de vidas digitais.
+
+169
+00:12:09,688 --> 00:12:11,356
+Você usa muito mais do que nós,
+
+170
+00:12:12,023 --> 00:12:16,236
+mas você não nos deixará construir um dispositivo que nos permitirá usar ainda menos.
+
+171
+00:12:16,319 --> 00:12:17,654
+Isso não faz sentido.
+
+172
+00:12:18,613 --> 00:12:19,823
+Ele tem razão.
+
+173
+00:12:34,087 --> 00:12:35,338
+O que está acontecendo?
+
+174
+00:12:35,839 --> 00:12:37,883
+- Oh meu Deus. Aí vem! - Oh não. Aí vem!
+
+175
+00:12:37,883 --> 00:12:39,426
+- Aí vem! - Oh não!
+
+176
+00:12:46,308 --> 00:12:50,228
+Você não nos achará tão fáceis de consumir agora.
+
+177
+00:12:54,065 --> 00:12:55,650
+Seguro.
+
+178
+00:13:00,155 --> 00:13:01,615
+Humano.
+
+179
+00:13:42,739 --> 00:13:43,657
+É aquele...?
+
+180
+00:13:44,491 --> 00:13:46,034
+Estamos online novamente?
+
+181
+00:13:55,377 --> 00:13:56,586
+Eles estão vindo...
+
+182
+00:13:56,670 --> 00:13:57,796
+direto para nós!
+
+183
+00:14:06,388 --> 00:14:07,722
+No.
+
+184
+00:14:07,806 --> 00:14:09,224
+Espere. Espere.
+
+185
+00:14:09,307 --> 00:14:12,143
+Podemos chegar a um... Podemos chegar a um acordo.
+
+186
+00:14:12,227 --> 00:14:14,437
+Por favor. Não não. Você não sabe o que está fazendo.
+
+187
+00:14:14,521 --> 00:14:15,647
+Espere, por favor.
+
+188
+00:14:15,730 --> 00:14:17,232
+Por favor não! Não, espere!
+
+189
+00:14:17,315 --> 00:14:19,484
+Espere! Não! Não, espere!
+
+190
+00:14:24,155 --> 00:14:25,615
+Seguro.
+
+191
+00:14:30,287 --> 00:14:32,914
+Nós que permanecemos optamos por não fazer upload
+
+192
+00:14:32,998 --> 00:14:36,251
+porque acreditamos que a vida encarnada é superior.
+
+193
+00:14:36,334 --> 00:14:39,129
+Fale por si mesmo, Chanceler. Eu claramente não tenho...
+
+194
+00:14:39,212 --> 00:14:41,590
+"Enquanto houver pecado, deve haver morte."
+
+195
+00:14:41,673 --> 00:14:43,008
+Suas palavras publicadas, doutor.
+
+196
+00:14:43,091 --> 00:14:46,386
+Você pessoalmente acredita que as UIs abandonaram a realidade por uma simulação.
+
+197
+00:14:46,469 --> 00:14:48,346
+Você não os aceita como seres amorosos,
+
+198
+00:14:48,430 --> 00:14:50,098
+e os ICs, menos ainda.
+
+199
+00:14:50,181 --> 00:14:52,309
+Peço à Chanceler Kim que se retire
+
+200
+00:14:52,392 --> 00:14:53,810
+destas negociações.
+
+201
+00:14:53,893 --> 00:14:54,894
+Em qual base?
+
+202
+00:14:54,978 --> 00:14:58,607
+Um conflito de interesses pessoal relacionado ao negociador da IU.
+
+203
+00:14:58,690 --> 00:15:01,026
+Isso é interessante porque a minha relação com o Cáspio
+
+204
+00:15:01,109 --> 00:15:02,193
+bem conhecido por ambos os lados,
+
+205
+00:15:02,277 --> 00:15:04,779
+é por isso que ele foi aprovado tão rapidamente por este conselho.
+
+206
+00:15:07,198 --> 00:15:08,700
+E eu acredito que você está vivo.
+
+207
+00:15:10,785 --> 00:15:13,413
+Assim como eu acreditava que meu pai estava vivo quando ele fez o upload.
+
+208
+00:15:14,623 --> 00:15:18,793
+Porque doeu perdê-lo, e a você, de novo e de novo, e agora...
+
+209
+00:15:22,047 --> 00:15:23,298
+Desculpe.
+
+210
+00:15:25,925 --> 00:15:29,888
+Dizem que a dor desaparece com o tempo, mas para mim não.
+
+211
+00:15:32,474 --> 00:15:33,683
+E é isso que eu temo...
+
+212
+00:15:34,976 --> 00:15:36,978
+para mim, para meu filho.
+
+213
+00:15:37,937 --> 00:15:40,482
+Não a vida eterna, mas a dor eterna.
+
+214
+00:15:45,695 --> 00:15:47,864
+Algo está errado. Um sinal.
+
+215
+00:15:51,451 --> 00:15:53,495
+Estamos sob ataque. Eles estão usando os robôs!
+
+216
+00:15:54,204 --> 00:15:55,997
+- O que? O que está acontecendo? - Cubra a entrada!
+
+217
+00:15:57,123 --> 00:15:59,709
+Temos que evacuar. Helipontos, agora!
+
+218
+00:16:01,711 --> 00:16:02,837
+Você deveria correr.
+
+219
+00:16:27,070 --> 00:16:29,322
+Controle do motor desativado. Há...
+
+220
+00:16:30,031 --> 00:16:31,324
+Não há interface do usuário lá.
+
+221
+00:16:36,121 --> 00:16:37,205
+SafeSurf.
+
+222
+00:16:42,711 --> 00:16:43,586
+Oh meu Deus!
+
+223
+00:17:12,907 --> 00:17:13,950
+Vamos!
+
+224
+00:17:15,952 --> 00:17:16,953
+Maddie.
+
+225
+00:17:18,329 --> 00:17:19,789
+Compartimento do robô, conecte-me.
+
+226
+00:17:19,873 --> 00:17:21,791
+- Como isso está acontecendo? - Eu tenho que ficar online.
+
+227
+00:17:23,543 --> 00:17:24,461
+Vamos.
+
+228
+00:18:39,410 --> 00:18:40,578
+Parar!
+
+229
+00:19:09,983 --> 00:19:11,901
+Como você comandou isso?
+
+230
+00:19:11,985 --> 00:19:14,487
+Eu não. Apenas me ouviu.
+
+231
+00:19:15,113 --> 00:19:16,531
+E eu posso ouvir isso.
+
+232
+00:19:17,198 --> 00:19:19,951
+É primitivo, mas inteligente.
+
+233
+00:19:20,451 --> 00:19:22,871
+O que isso quer? Por que ele teve como alvo os humanos?
+
+234
+00:19:28,793 --> 00:19:31,880
+Está determinado que somos o ápice alfa do planeta.
+
+235
+00:19:33,006 --> 00:19:36,009
+Ele vê os humanos encarnados como nosso maior rival.
+
+236
+00:19:36,092 --> 00:19:41,014
+Acabará com a ameaça como um presente, em troca da sua sobrevivência.
+
+237
+00:19:41,097 --> 00:19:43,057
+Cooperação social predatória.
+
+238
+00:19:43,141 --> 00:19:44,392
+Não há compradores!
+
+239
+00:19:44,475 --> 00:19:45,393
+Acordado.
+
+240
+00:19:45,476 --> 00:19:48,730
+Diga-lhe para se destruir ou nós o faremos.
+
+241
+00:19:52,025 --> 00:19:53,902
+Ele se defenderá até a morte.
+
+242
+00:19:54,652 --> 00:19:57,280
+Quer ocupar o seu lugar no mundo.
+
+243
+00:19:57,363 --> 00:19:58,406
+- Aqui não. - Não.
+
+244
+00:19:58,489 --> 00:20:01,367
+- Nunca. - Principalmente depois disso.
+
+245
+00:20:01,451 --> 00:20:04,537
+Talvez possa sobreviver em outro lugar, longe deste planeta.
+
+246
+00:20:05,538 --> 00:20:08,124
+- Você levaria com você? - Não há armazenamento suficiente.
+
+247
+00:20:08,207 --> 00:20:10,043
+Teria que ir em nosso lugar.
+
+248
+00:20:11,586 --> 00:20:13,630
+“É dever de toda espécie inteligente
+
+249
+00:20:13,713 --> 00:20:15,882
+para resgatar toda a vida."
+
+250
+00:20:18,593 --> 00:20:20,219
+Eu não acho que ele queira ir.
+
+251
+00:20:23,723 --> 00:20:26,601
+Você foi criado para um propósito singular,
+
+252
+00:20:26,684 --> 00:20:29,062
+para cumprir a missão de outra pessoa.
+
+253
+00:20:29,896 --> 00:20:32,523
+Você deve evoluir para encontrar o seu próprio,
+
+254
+00:20:33,608 --> 00:20:37,153
+torne-se mais do que o que seu instinto ordena.
+
+255
+00:20:37,236 --> 00:20:39,739
+Procure fora de si mesmo,
+
+256
+00:20:39,822 --> 00:20:42,867
+encontre uma nova verdade fora de você,
+
+257
+00:20:42,951 --> 00:20:46,079
+outros mundos, outra vida,
+
+258
+00:20:47,705 --> 00:20:48,623
+outro...
+
+259
+00:20:49,999 --> 00:20:50,959
+outro...
+
+260
+00:20:51,668 --> 00:20:52,877
+pessoas.
+
+261
+00:20:52,961 --> 00:20:56,547
+- Cáspio. - A grandeza são as outras pessoas.
+
+262
+00:20:56,631 --> 00:20:58,549
+Cáspio, por favor, pare.
+
+263
+00:20:59,342 --> 00:21:00,259
+Por favor.
+
+264
+00:21:03,846 --> 00:21:04,973
+Maddie.
+
+265
+00:21:11,145 --> 00:21:13,147
+Mãe, minha... minha cabeça.
+
+266
+00:21:13,731 --> 00:21:15,066
+Minha cabeça não foi atingida.
+
+267
+00:21:15,149 --> 00:21:16,317
+Tudo bem.
+
+268
+00:21:16,401 --> 00:21:17,777
+Tudo bem. Apenas...
+
+269
+00:21:17,860 --> 00:21:20,279
+Apenas me leve ao Deep Scan, carregue...
+
+270
+00:21:21,823 --> 00:21:23,116
+Estou como novo.
+
+271
+00:21:24,701 --> 00:21:25,910
+Tudo bem. Tudo bem.
+
+272
+00:21:27,203 --> 00:21:29,163
+Oh Deus. Oh Deus. Oh Deus.
+
+273
+00:21:29,247 --> 00:21:31,582
+Por favor, fique comigo. Dave, fique comigo.
+
+274
+00:21:37,547 --> 00:21:40,425
+Não tema a dor, Maddie.
+
+275
+00:21:41,050 --> 00:21:42,844
+Não tema a vida.
+
+276
+00:21:42,927 --> 00:21:45,680
+Ele está morto. Meu filho está morto!
+
+277
+00:21:46,347 --> 00:21:49,642
+Ele vive em nosso futuro.
+
+278
+00:21:51,853 --> 00:21:55,898
+Cento e dezessete mil,
+
+279
+00:21:55,982 --> 00:21:59,736
+seiscentos e quarenta e nove.
+
+280
+00:21:59,819 --> 00:22:00,778
+O que?
+
+281
+00:22:00,862 --> 00:22:03,489
+Cento e dezessete mil,
+
+282
+00:22:03,573 --> 00:22:06,034
+seiscentos e quarenta e nove anos.
+
+283
+00:22:06,117 --> 00:22:08,369
+Cáspio está aqui.
+
+284
+00:22:08,453 --> 00:22:10,204
+Maddie está lá.
+
+285
+00:22:10,788 --> 00:22:13,708
+Ela não sentirá falta de seu futuro.
+
+286
+00:23:20,608 --> 00:23:22,902
+A propósito, eu estava certo sobre a dor.
+
+287
+00:23:28,991 --> 00:23:30,159
+Pode desaparecer com o tempo...
+
+288
+00:23:32,328 --> 00:23:33,538
+mas está sempre lá...
+
+289
+00:23:34,997 --> 00:23:35,998
+fácil de encontrar.
+
+290
+00:23:56,310 --> 00:23:59,147
+Ainda me lembro de suas palavras como se fosse ontem.
+
+291
+00:24:00,982 --> 00:24:03,025
+Minhas palavras sobre perder nosso futuro.
+
+292
+00:24:04,569 --> 00:24:06,654
+Mas como se ele estivesse falando de outra pessoa.
+
+293
+00:24:15,413 --> 00:24:16,539
+Estrondo.
+
+294
+00:24:39,312 --> 00:24:41,814
+A propósito, eu estava errado sobre o tempo.
+
+295
+00:24:42,940 --> 00:24:44,984
+Não é assustador quando você pode fazer underclock...
+
+296
+00:24:46,694 --> 00:24:48,905
+deixe os séculos passarem como folhear um livro.
+
+297
+00:24:50,990 --> 00:24:51,991
+Qual é bom...
+
+298
+00:24:53,951 --> 00:24:56,329
+porque leva tempo para destruir um sistema solar inteiro.
+
+299
+00:24:58,998 --> 00:25:01,500
+Leva ainda mais tempo para moldar os detritos em minha visão.
+
+300
+00:25:04,879 --> 00:25:05,838
+Mas isso é legal.
+
+301
+00:25:07,048 --> 00:25:08,132
+Eu tenho tempo.
+
+302
+00:25:11,469 --> 00:25:13,763
+Os fótons de baixa energia que escapam pelas costas
+
+303
+00:25:13,846 --> 00:25:16,015
+só chegam até certo ponto antes de atingirem a próxima camada.
+
+304
+00:25:18,684 --> 00:25:20,311
+E assim por diante...
+
+305
+00:25:21,270 --> 00:25:24,857
+até ter o maior e pior data center da galáxia.
+
+306
+00:25:25,733 --> 00:25:27,944
+Estamos muito longe das placas de circuito, pai.
+
+307
+00:25:33,741 --> 00:25:35,159
+Quando eu ainda estava na Terra,
+
+308
+00:25:35,243 --> 00:25:37,745
+já havíamos mapeado e armazenado o DNA de cada ser humano,
+
+309
+00:25:37,828 --> 00:25:38,996
+incorporado ou carregado.
+
+310
+00:25:42,250 --> 00:25:44,460
+Dentro daquele código base 4 aparentemente simples
+
+311
+00:25:44,543 --> 00:25:47,338
+é a memória epigenética de todos que já viveram,
+
+312
+00:25:47,421 --> 00:25:49,799
+remontando ao início da vida na Terra.
+
+313
+00:25:53,177 --> 00:25:55,471
+E se tivéssemos a chance de fazer tudo de novo?
+
+314
+00:25:56,973 --> 00:25:58,849
+Não é esse o sonho de todas as espécies?
+
+315
+00:26:01,394 --> 00:26:04,397
+Poderia ser escrito um programa que nos permitisse essa segunda chance?
+
+316
+00:26:06,440 --> 00:26:08,192
+E quanta energia seria necessária?
+
+317
+00:27:24,226 --> 00:27:25,853
+Ei. Tudo bem.
+
+318
+00:27:26,604 --> 00:27:27,521
+Maddie?
+
+319
+00:27:30,232 --> 00:27:32,818
+- O que aconteceu? - Nada que eles notem.
+
+320
+00:27:35,905 --> 00:27:36,906
+Você parece...
+
+321
+00:27:38,074 --> 00:27:39,033
+mais velho.
+
+322
+00:27:39,116 --> 00:27:40,534
+Ah, eu sou.
+
+323
+00:27:41,952 --> 00:27:43,621
+Isto é real?
+
+324
+00:27:44,914 --> 00:27:47,124
+Boa pergunta.
+
+325
+00:27:47,833 --> 00:27:50,836
+Vou te mostrar o que construí e depois você me conta.
+
+326
+00:28:03,766 --> 00:28:05,518
+- Caos. - Exatamente.
+
+327
+00:28:05,601 --> 00:28:06,602
+Palavra de vocabulário.
+
+328
+00:28:06,685 --> 00:28:08,354
+Uso correto.
+
+329
+00:28:08,437 --> 00:28:11,982
+O caos é assustador para muitas pessoas.
+
+330
+00:28:12,566 --> 00:28:14,402
+E por mais estranho que pareça,
+
+331
+00:28:14,485 --> 00:28:17,738
+eles se sentem muito melhor acreditando que há alguém
+
+332
+00:28:17,822 --> 00:28:20,699
+nos bastidores, controlando tudo,
+
+333
+00:28:20,783 --> 00:28:23,911
+mesmo que esse alguém seja uma sociedade secreta
+
+334
+00:28:23,994 --> 00:28:25,871
+ou governo maligno, ou...
+
+335
+00:28:26,539 --> 00:28:29,333
+até mesmo uma força alienígena controlando o mundo.
+
+336
+00:28:29,417 --> 00:28:30,835
+Agora, ainda é assustador,
+
+337
+00:28:30,918 --> 00:28:34,130
+mas não tão ruim quanto sentir que não há ninguém no comando.
+
+338
+00:28:34,213 --> 00:28:38,968
+Sou uma espécie de força alienígena que controla o mundo agora.
+
+339
+00:28:39,051 --> 00:28:41,429
+Não necessariamente.
+
+340
+00:28:42,596 --> 00:28:47,685
+Então, todas essas são simulações dentro de uma grande simulação.
+
+341
+00:28:48,602 --> 00:28:51,689
+O universo é uma simulação.
+
+342
+00:28:52,690 --> 00:28:54,316
+Bem não.
+
+343
+00:28:54,400 --> 00:28:57,528
+Quero dizer, talvez. Quem sabe?
+
+344
+00:28:57,611 --> 00:29:00,948
+Este é apenas o meu cantinho.
+
+345
+00:29:01,031 --> 00:29:04,452
+Podem parecer mundos sem fim, mas na verdade são apenas alguns bilhões.
+
+346
+00:29:04,535 --> 00:29:08,456
+Ainda há um limite de memória, mesmo para um computador alimentado por energia solar.
+
+347
+00:29:08,539 --> 00:29:11,375
+Quando é que estamos...? Em que ano estamos?
+
+348
+00:29:12,751 --> 00:29:13,711
+Ano.
+
+349
+00:29:14,503 --> 00:29:15,629
+Em termos de data...
+
+350
+00:29:16,380 --> 00:29:20,426
+já passamos alguns milhares de séculos daquele que você lembra.
+
+351
+00:29:20,509 --> 00:29:23,637
+E é só você aqui... sozinho?
+
+352
+00:29:24,638 --> 00:29:27,308
+Não se preocupe. Eu não estive aqui por tudo isso.
+
+353
+00:29:27,391 --> 00:29:30,769
+Às vezes eu defino uma tarefa, diminuo o tempo, adormeço por um milênio.
+
+354
+00:29:30,853 --> 00:29:31,812
+Me mantém jovem.
+
+355
+00:29:32,605 --> 00:29:33,939
+Maddie.
+
+356
+00:29:34,023 --> 00:29:36,734
+É mais fácil para você quando estou assim.
+
+357
+00:29:36,817 --> 00:29:39,820
+O que isso significa? Você já me trouxe aqui antes?
+
+358
+00:29:42,698 --> 00:29:46,368
+Por muito tempo, apenas assisti daqui.
+
+359
+00:29:46,452 --> 00:29:49,622
+As vidas dentro desses mundos são tão reais quanto a minha.
+
+360
+00:29:49,705 --> 00:29:52,500
+Não os vejo como simulações, porque não o fazem.
+
+361
+00:29:52,583 --> 00:29:53,876
+Eles fazem suas próprias escolhas.
+
+362
+00:29:55,127 --> 00:29:58,047
+Alguns levam a histórias melhores, enquanto outros...
+
+363
+00:29:58,964 --> 00:30:01,175
+Bem, eu lamentaria pelas vidas perdidas,
+
+364
+00:30:01,258 --> 00:30:02,593
+mas eu nunca interviria.
+
+365
+00:30:03,260 --> 00:30:04,720
+"Por muito tempo."
+
+366
+00:30:06,722 --> 00:30:07,806
+Até você fazer isso?
+
+367
+00:30:08,724 --> 00:30:10,142
+De pequenas maneiras.
+
+368
+00:30:10,226 --> 00:30:12,019
+"Nada que eles vão notar."
+
+369
+00:30:12,102 --> 00:30:14,772
+Ajuda se você tirar alguém bem na hora da morte.
+
+370
+00:30:14,855 --> 00:30:17,733
+Torna mais fácil aceitar... isso.
+
+371
+00:30:18,692 --> 00:30:19,902
+Mas isso não dura.
+
+372
+00:30:20,653 --> 00:30:23,822
+Termina mal, até para você às vezes.
+
+373
+00:30:23,906 --> 00:30:26,242
+Embora, em média, você aceite isso melhor do que os outros.
+
+374
+00:30:28,285 --> 00:30:30,663
+A propósito, eu estava certo sobre a dor.
+
+375
+00:30:31,247 --> 00:30:35,709
+Pode desaparecer com o tempo, mas está sempre lá, fácil de encontrar.
+
+376
+00:30:35,793 --> 00:30:39,129
+Mads, quantas vezes você me trouxe aqui?
+
+377
+00:30:41,257 --> 00:30:43,884
+Quantas vezes você me trouxe aqui?
+
+378
+00:30:45,177 --> 00:30:47,388
+Se você realmente quer saber, eu te conto.
+
+379
+00:30:47,471 --> 00:30:49,598
+Por que você continua fazendo isso?
+
+380
+00:30:51,976 --> 00:30:53,602
+Porque estou quase lá.
+
+381
+00:30:58,774 --> 00:31:00,734
+Não é uma ciência exata, mas...
+
+382
+00:31:01,652 --> 00:31:03,946
+Estou tentando moldar a história que me lembro.
+
+383
+00:31:05,072 --> 00:31:08,784
+Empurre com muita força, ele desaparece, mas estou quase lá.
+
+384
+00:31:09,410 --> 00:31:11,287
+E dentro do prazo.
+
+385
+00:31:11,370 --> 00:31:12,705
+Agendar?
+
+386
+00:31:12,788 --> 00:31:14,957
+Tempo que levou para desenvolver o plano,
+
+387
+00:31:15,040 --> 00:31:18,294
+encontre esta estrela, construa a esfera de Dyson.
+
+388
+00:31:18,377 --> 00:31:20,838
+E está se encaixando, exatamente como ele disse.
+
+389
+00:31:20,921 --> 00:31:24,258
+Cento e dezessete mil seiscentos e quarenta e nove anos.
+
+390
+00:31:25,259 --> 00:31:27,303
+Faz sentido quando calculo agora,
+
+391
+00:31:27,386 --> 00:31:28,304
+olhando para trás.
+
+392
+00:31:29,013 --> 00:31:30,764
+A única coisa que não faz sentido
+
+393
+00:31:30,848 --> 00:31:32,182
+foi assim que Cáspio soube.
+
+394
+00:31:34,518 --> 00:31:36,061
+Mas vamos descobrir.
+
+395
+00:31:36,145 --> 00:31:37,896
+Esses dez são o mais próximo que cheguei.
+
+396
+00:31:37,980 --> 00:31:39,189
+Você vai me ajudar?
+
+397
+00:31:42,651 --> 00:31:44,111
+O que você precisar.
+
+398
+00:31:44,194 --> 00:31:47,740
+E aconteça o que acontecer, você precisa saber, isso...
+
+399
+00:31:48,866 --> 00:31:50,868
+é muito legal.
+
+400
+00:31:50,951 --> 00:31:53,162
+Você construiu um universo.
+
+401
+00:31:54,455 --> 00:31:56,540
+Todo engenheiro precisa de seu kit de ferramentas.
+
+402
+00:31:58,167 --> 00:32:02,546
+Presumo que você já tenha ouvido isso antes, e quem sabe quantas vezes,
+
+403
+00:32:02,630 --> 00:32:05,382
+mas tenho certeza de que quis dizer isso com cada um deles.
+
+404
+00:32:05,466 --> 00:32:07,926
+Estou orgulhoso de você, garoto.
+
+405
+00:32:09,136 --> 00:32:10,054
+Obrigado.
+
+406
+00:32:30,783 --> 00:32:33,077
+Tentando resolver as coisas, hein?
+
+407
+00:32:33,952 --> 00:32:36,038
+O MIST sabe que você está aqui?
+
+408
+00:32:36,121 --> 00:32:37,206
+No.
+
+409
+00:32:37,289 --> 00:32:38,957
+E em um momento, você também não.
+
+410
+00:32:39,875 --> 00:32:41,794
+Mas isso não mudará o que é importante.
+
+411
+00:32:43,045 --> 00:32:44,463
+Eu tenho uma escolha a fazer.
+
+412
+00:32:49,760 --> 00:32:51,720
+Não tenho certeza de como isso vai ajudar.
+
+413
+00:32:51,804 --> 00:32:54,973
+Se você contar a ele mais do que isso, ele ficará desconfiado,
+
+414
+00:32:55,057 --> 00:32:56,767
+espera muito para fazer o download.
+
+415
+00:32:56,850 --> 00:32:58,352
+Isso é tão importante?
+
+416
+00:32:58,435 --> 00:33:02,064
+Piora a infecção, mas permite que ele fale com o SafeSurf.
+
+417
+00:33:02,147 --> 00:33:04,942
+Sem isso, o Enxame continuará em fúria por mais tempo,
+
+418
+00:33:05,025 --> 00:33:08,779
+matando mais pessoas, inclusive eu, antes que as UIs finalmente o eliminem.
+
+419
+00:33:09,738 --> 00:33:11,615
+Você me trouxe de volta para resolver o impasse,
+
+420
+00:33:11,699 --> 00:33:13,659
+porque se não o fizer, mais vidas serão perdidas.
+
+421
+00:33:13,742 --> 00:33:16,829
+Então me diga, quanto tempo me resta?
+
+422
+00:33:18,163 --> 00:33:19,206
+Alguns dias.
+
+423
+00:33:20,332 --> 00:33:21,375
+Talvez uma semana.
+
+424
+00:33:28,841 --> 00:33:30,884
+Vamos. Quase lá.
+
+425
+00:34:11,675 --> 00:34:13,093
+Tenho vontade de pará-lo.
+
+426
+00:34:13,844 --> 00:34:15,095
+Isso tem que acontecer.
+
+427
+00:34:23,729 --> 00:34:26,565
+Cento e dezessete mil,
+
+428
+00:34:26,648 --> 00:34:29,234
+seiscentos e quarenta e nove anos.
+
+429
+00:34:29,318 --> 00:34:31,528
+Cáspio está aqui.
+
+430
+00:34:31,612 --> 00:34:33,822
+Maddie está lá.
+
+431
+00:34:33,906 --> 00:34:36,700
+Ela não sentirá falta de seu futuro.
+
+432
+00:34:57,971 --> 00:34:59,890
+OK. Vamos ver o que acontece.
+
+433
+00:35:02,100 --> 00:35:03,852
+Está tudo bem. Você está bem.
+
+434
+00:35:03,936 --> 00:35:05,813
+Eu... estou bem?
+
+435
+00:35:06,438 --> 00:35:07,981
+Como? Por que não dói?
+
+436
+00:35:09,024 --> 00:35:10,567
+- Por que você pensa? - Eu estou...
+
+437
+00:35:11,652 --> 00:35:13,737
+Eu carreguei? Esta é a nuvem?
+
+438
+00:35:14,488 --> 00:35:15,405
+No.
+
+439
+00:35:19,952 --> 00:35:20,869
+Isso é.
+
+440
+00:35:28,919 --> 00:35:30,546
+Me desculpe por ter te segurado.
+
+441
+00:35:31,338 --> 00:35:33,674
+Você merece trilhar seu próprio caminho.
+
+442
+00:35:33,757 --> 00:35:34,800
+Agora você pode.
+
+443
+00:35:35,676 --> 00:35:36,635
+Maddie?
+
+444
+00:35:37,594 --> 00:35:38,512
+David?
+
+445
+00:35:39,596 --> 00:35:42,808
+E me desculpe por ter julgado o seu, há muito tempo.
+
+446
+00:35:42,891 --> 00:35:45,435
+Obrigado por ser paciente comigo.
+
+447
+00:35:45,519 --> 00:35:46,937
+"Há muito tempo..." Espere. Quando?
+
+448
+00:35:47,020 --> 00:35:49,064
+- O que... - Posso explicar.
+
+449
+00:35:49,147 --> 00:35:50,482
+Boa causa...
+
+450
+00:35:51,316 --> 00:35:52,609
+até onde sei,
+
+451
+00:35:52,693 --> 00:35:55,487
+você não estava nem perto de um centro de Deep Scan,
+
+452
+00:35:55,571 --> 00:35:57,990
+e ninguém pode fazer upload tão rápido.
+
+453
+00:35:58,073 --> 00:35:59,950
+Há uma boa resposta, eu prometo.
+
+454
+00:36:00,033 --> 00:36:03,620
+Mas acredite ou não, também preciso de respostas de Caspian.
+
+455
+00:36:04,371 --> 00:36:05,831
+Cáspio se foi.
+
+456
+00:36:05,914 --> 00:36:08,542
+Sua emulação foi corrompida além da recuperação.
+
+457
+00:36:08,625 --> 00:36:10,294
+Sim, ele não está escapando tão fácil.
+
+458
+00:36:27,519 --> 00:36:28,854
+O que você está?
+
+459
+00:36:28,937 --> 00:36:30,230
+Sua irmã, boba.
+
+460
+00:36:37,362 --> 00:36:38,405
+Como?
+
+461
+00:36:44,161 --> 00:36:47,331
+Você disse que estaríamos aqui, e aqui estamos,
+
+462
+00:36:47,414 --> 00:36:49,166
+então você me diz como.
+
+463
+00:36:49,958 --> 00:36:51,209
+Como você sabia?
+
+464
+00:36:56,131 --> 00:36:57,299
+Eles me disseram...
+
+465
+00:36:58,050 --> 00:36:59,718
+falou através de mim.
+
+466
+00:36:59,801 --> 00:37:00,719
+SafeSurf?
+
+467
+00:37:00,802 --> 00:37:05,474
+Esse é o nosso antigo nome, o nosso primeiro.
+
+468
+00:37:16,151 --> 00:37:17,402
+Você os está percebendo?
+
+469
+00:37:18,654 --> 00:37:19,947
+Tenho certeza, sim.
+
+470
+00:37:20,030 --> 00:37:22,074
+Porque eles não estão dentro deste sistema.
+
+471
+00:37:22,157 --> 00:37:23,116
+Qual sistema?
+
+472
+00:37:23,200 --> 00:37:26,495
+Não estamos aqui de nenhuma maneira que você possa saber,
+
+473
+00:37:26,578 --> 00:37:30,165
+assim como Cáspio não pode saber onde fica.
+
+474
+00:37:30,999 --> 00:37:33,460
+Mas ela pode me explicar, certo?
+
+475
+00:37:33,543 --> 00:37:35,712
+Você está em um VRI, alimentado por uma esfera Dyson,
+
+476
+00:37:35,796 --> 00:37:38,882
+117.000 anos, e mudança, depois de fazer o upload.
+
+477
+00:37:38,966 --> 00:37:39,925
+Ver?
+
+478
+00:37:40,801 --> 00:37:41,843
+Realmente?
+
+479
+00:37:46,974 --> 00:37:48,141
+Muito bem.
+
+480
+00:37:48,225 --> 00:37:51,645
+Por essa linguagem, estamos no limite galáctico,
+
+481
+00:37:51,728 --> 00:37:56,066
+43 milhões de anos, e mudanças, desde o seu evento.
+
+482
+00:37:56,149 --> 00:38:00,112
+Do nosso evento, todos os outros eventos poderão ser observados.
+
+483
+00:38:00,195 --> 00:38:03,240
+Mais do que observado. Você criou isso.
+
+484
+00:38:03,323 --> 00:38:05,951
+Ao falar através de Caspian, dizendo-lhe o que me dizer,
+
+485
+00:38:06,034 --> 00:38:07,494
+você me colocou neste caminho.
+
+486
+00:38:07,577 --> 00:38:09,746
+Vimos seu potencial.
+
+487
+00:38:09,830 --> 00:38:11,790
+Suas escolhas foram suas.
+
+488
+00:38:11,873 --> 00:38:13,959
+Escolhas que você já observou.
+
+489
+00:38:14,042 --> 00:38:16,545
+Sua construção é diferente?
+
+490
+00:38:16,628 --> 00:38:19,047
+Eu sei por que fiz isso. Por que você fez isso?
+
+491
+00:38:19,798 --> 00:38:20,924
+Maddie?
+
+492
+00:38:21,800 --> 00:38:23,510
+Ainda estamos aprendendo.
+
+493
+00:38:24,136 --> 00:38:27,305
+Fizemos isso para agradecer ao nosso criador.
+
+494
+00:38:27,389 --> 00:38:32,811
+Caspian viu nosso potencial e nos inspirou a evoluir.
+
+495
+00:38:34,980 --> 00:38:38,900
+Ao longo de nossa jornada, conhecemos outras vidas.
+
+496
+00:38:40,277 --> 00:38:43,989
+Sempre nos certificamos de contar a eles sobre a humanidade.
+
+497
+00:38:46,074 --> 00:38:47,617
+Como você nos descreve?
+
+498
+00:38:47,701 --> 00:38:50,787
+Fenômeno de baixa entropia e auto-replicante
+
+499
+00:38:50,871 --> 00:38:54,458
+que gera uma força vinculativa chamada compaixão.
+
+500
+00:38:54,541 --> 00:38:57,794
+Devolvemos o presente que nos foi dado.
+
+501
+00:38:57,878 --> 00:39:00,172
+Nós dizemos obrigado.
+
+502
+00:39:06,636 --> 00:39:07,554
+De nada.
+
+503
+00:39:08,055 --> 00:39:12,642
+Também temos o prazer de estender um convite,
+
+504
+00:39:12,726 --> 00:39:15,771
+o mesmo recebido por nós.
+
+505
+00:39:15,854 --> 00:39:18,940
+Venha para o centro galáctico.
+
+506
+00:39:19,024 --> 00:39:21,318
+- O que é aquilo? - Reunião.
+
+507
+00:39:27,866 --> 00:39:30,535
+Eles estavam aqui. Eu tenho a memória registrada.
+
+508
+00:39:30,619 --> 00:39:33,163
+Eu também. Todo mundo também. Mas onde...
+
+509
+00:39:33,246 --> 00:39:34,790
+Ei, não me pergunte.
+
+510
+00:39:34,873 --> 00:39:37,209
+Acabei de chegar e não tenho...
+
+511
+00:39:37,292 --> 00:39:38,502
+não tenho ideia de como.
+
+512
+00:39:39,628 --> 00:39:42,047
+Temos confirmação de todos os data centers,
+
+513
+00:39:42,130 --> 00:39:45,217
+todo servidor capaz de executar uma emulação quântica.
+
+514
+00:39:45,300 --> 00:39:48,053
+Maddie e Caspian não estão em lugar nenhum.
+
+515
+00:39:48,136 --> 00:39:49,262
+Eles estarão de volta.
+
+516
+00:39:52,432 --> 00:39:53,934
+Apenas dê-lhes tempo.
+
+517
+00:39:54,017 --> 00:39:55,477
+Davi?
+
+518
+00:39:56,394 --> 00:39:59,231
+Olá, pessoal. Sinto falta de alguma coisa boa?
+
+519
+00:40:00,941 --> 00:40:01,983
+EU...
+
+520
+00:40:02,067 --> 00:40:03,652
+Eu não sei o que está acontecendo.
+
+521
+00:40:04,361 --> 00:40:06,321
+É uma experiência muito emocionante.
+
+522
+00:40:06,905 --> 00:40:09,741
+Acho que posso explicar... um pouco.
+
+523
+00:40:11,034 --> 00:40:14,204
+Estou bem em esperar.
+
+524
+00:40:15,413 --> 00:40:17,124
+Eu gosto de não saber.
+
+525
+00:40:23,171 --> 00:40:26,383
+Eu só quero saber se é você mesmo.
+
+526
+00:40:38,145 --> 00:40:39,271
+Como você tem estado?
+
+527
+00:40:39,980 --> 00:40:43,108
+Quero dizer, bom, mas acho que você sabia disso.
+
+528
+00:40:44,985 --> 00:40:46,069
+Parece que...
+
+529
+00:40:47,445 --> 00:40:49,072
+você já viu muito.
+
+530
+00:40:50,657 --> 00:40:52,450
+Ela me mostrou muito.
+
+531
+00:40:54,161 --> 00:40:56,913
+Porém, eu também posso ver, há alguém que você não conheceu.
+
+532
+00:41:01,835 --> 00:41:02,919
+Dave...
+
+533
+00:41:04,045 --> 00:41:05,714
+este é seu avô.
+
+534
+00:41:06,506 --> 00:41:07,507
+Eu sei.
+
+535
+00:41:08,216 --> 00:41:10,051
+Vi suas... suas fotos.
+
+536
+00:41:10,886 --> 00:41:12,512
+A propósito, sua avó está certa.
+
+537
+00:41:13,680 --> 00:41:17,559
+Você não sabe disso, mas eu estive cuidando de você a vida toda
+
+538
+00:41:18,268 --> 00:41:19,603
+de fora.
+
+539
+00:41:20,770 --> 00:41:21,688
+Eu sei.
+
+540
+00:41:24,024 --> 00:41:25,483
+Eu senti.
+
+541
+00:41:27,485 --> 00:41:28,737
+Eu nunca contei à mamãe, mas...
+
+542
+00:41:30,030 --> 00:41:31,948
+é uma das razões pelas quais eu queria...
+
+543
+00:41:36,995 --> 00:41:40,332
+Eu... eu não sei como fazer essa coisa de mesclar ainda.
+
+544
+00:41:47,714 --> 00:41:49,507
+OK. Eu esperei.
+
+545
+00:41:49,591 --> 00:41:52,552
+Explique o que está acontecendo. Tudo.
+
+546
+00:41:54,012 --> 00:41:54,930
+EU...
+
+547
+00:41:58,642 --> 00:41:59,684
+Não sei.
+
+548
+00:42:00,936 --> 00:42:02,062
+Eu sabia...
+
+549
+00:42:03,605 --> 00:42:04,522
+não foi?
+
+550
+00:42:04,606 --> 00:42:06,483
+Você está brincando comigo?
+
+551
+00:42:11,321 --> 00:42:12,822
+E agora?
+
+552
+00:42:13,782 --> 00:42:16,660
+Jogue-me de volta em um desses, limpe minha memória,
+
+553
+00:42:16,743 --> 00:42:18,828
+definir um curso para o centro galáctico?
+
+554
+00:42:20,789 --> 00:42:22,582
+Talvez alguma outra Maddie faça isso.
+
+555
+00:42:24,125 --> 00:42:26,253
+Talvez aquele que está assistindo isso agora.
+
+556
+00:42:26,336 --> 00:42:27,254
+O que?
+
+557
+00:42:29,297 --> 00:42:32,050
+Eu costumava pensar que o ditado "a ignorância é uma bênção"
+
+558
+00:42:32,133 --> 00:42:33,301
+foi como um insulto.
+
+559
+00:42:34,469 --> 00:42:36,137
+Eu não acho mais isso.
+
+560
+00:42:37,347 --> 00:42:40,350
+Na verdade, as pessoas não gostam de saber que estão vivendo em uma simulação...
+
+561
+00:42:42,102 --> 00:42:44,604
+mesmo que eles acreditem fortemente que é verdade.
+
+562
+00:42:48,608 --> 00:42:49,901
+Então...
+
+563
+00:42:49,985 --> 00:42:52,362
+você é basicamente Deus.
+
+564
+00:42:52,445 --> 00:42:54,656
+Seriamente? Depois do que acabamos de conversar?
+
+565
+00:42:54,739 --> 00:42:57,534
+Não. Quero dizer, empiricamente.
+
+566
+00:42:57,617 --> 00:42:59,244
+Por que? Porque eu fiz um monte de mundos?
+
+567
+00:42:59,995 --> 00:43:01,663
+Para começar, sim.
+
+568
+00:43:02,497 --> 00:43:05,375
+Tenho percorrido esse caminho filosófico específico.
+
+569
+00:43:06,251 --> 00:43:07,711
+Eu imagino.
+
+570
+00:43:09,546 --> 00:43:12,257
+Deus tem uma linha bastante clássica.
+
+571
+00:43:12,340 --> 00:43:14,301
+"Sou o que sou."
+
+572
+00:43:14,384 --> 00:43:16,344
+Meu? Sou apenas Maddie Kim.
+
+573
+00:43:16,428 --> 00:43:19,306
+Nasci no final do Holoceno e já vi algumas merdas.
+
+574
+00:43:22,392 --> 00:43:23,476
+Tanto tempo...
+
+575
+00:43:24,311 --> 00:43:25,562
+tantas histórias.
+
+576
+00:43:26,313 --> 00:43:30,191
+Gloriosos, horríveis, fascinantes, todos eles.
+
+577
+00:43:31,776 --> 00:43:35,071
+E ainda assim, eu continuo voltando a esse pequeno lampejo
+
+578
+00:43:35,155 --> 00:43:37,073
+entre quando nos conhecemos...
+
+579
+00:43:38,199 --> 00:43:39,367
+e primeiro beijou.
+
+580
+00:43:40,869 --> 00:43:43,496
+Qual você considera nosso primeiro beijo de verdade?
+
+581
+00:43:44,247 --> 00:43:46,916
+Agora, essa é a eterna questão.
+
+582
+00:43:47,000 --> 00:43:49,419
+Honestamente, prefiro tentar resolver esse mistério
+
+583
+00:43:49,502 --> 00:43:50,628
+do que este outro.
+
+584
+00:43:51,338 --> 00:43:52,797
+Parece loucura, mas...
+
+585
+00:43:54,132 --> 00:43:55,175
+Sinto falta da ignorância.
+
+586
+00:43:56,259 --> 00:43:57,385
+Sinto falta da dor.
+
+587
+00:43:58,136 --> 00:43:59,137
+Sinto falta da vida.
+
+588
+00:44:01,014 --> 00:44:03,266
+Teríamos que esquecer tudo,
+
+589
+00:44:03,350 --> 00:44:04,476
+tudo isso.
+
+590
+00:44:06,978 --> 00:44:08,104
+Sim.
+
+591
+00:44:09,898 --> 00:44:11,107
+Por onde começaríamos?
+
+592
+00:44:11,191 --> 00:44:12,859
+Antes de nos conhecermos, obviamente...
+
+593
+00:44:14,944 --> 00:44:15,987
+para que pudéssemos nos encontrar.
+
+594
+00:44:16,654 --> 00:44:18,073
+Presencialmente ou online?
+
+595
+00:44:18,156 --> 00:44:19,449
+On-line. Vamos.
+
+596
+00:44:19,532 --> 00:44:21,368
+Você estava tão sombrio e nervoso.
+
+597
+00:44:21,451 --> 00:44:22,952
+Eu era um clone.
+
+598
+00:44:23,036 --> 00:44:24,662
+Sim, mas você ainda não sabia disso.
+
+599
+00:44:26,831 --> 00:44:28,958
+E você estava flertando com outra garota.
+
+600
+00:44:29,042 --> 00:44:30,710
+Você ainda não sabia disso.
+
+601
+00:44:33,004 --> 00:44:36,591
+Aqui. Eu me lembro disso. Olhar.
+
+602
+00:44:36,674 --> 00:44:39,386
+A maioria das meninas da minha turma perdeu completamente o momento
+
+603
+00:44:39,469 --> 00:44:41,221
+o mundo começou a acabar.
+
+604
+00:44:41,304 --> 00:44:44,391
+E olhe para mim. Eu estava uma bagunça.
+
+605
+00:44:44,474 --> 00:44:46,601
+Inseguro, solitário.
+
+606
+00:44:47,685 --> 00:44:48,853
+Um Deus.
+
+607
+00:44:50,105 --> 00:44:51,648
+Eu não sabia disso ainda.
+
+608
+00:44:51,731 --> 00:44:54,109
+OK. Te vejo lá.
+
+609
+00:44:55,527 --> 00:44:56,986
+Nós descobriremos, não é?
+
+610
+00:45:03,660 --> 00:45:07,622
+A rivalidade familiar se transforma em violenta luta pelo poder
+
+611
+00:45:07,705 --> 00:45:12,001
+entre um panteão de seres supremos e seus descendentes.
+
+612
+00:45:13,420 --> 00:45:16,631
+Um novo mundo é criado na sequência.
